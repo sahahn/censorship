@@ -1,0 +1,134 @@
+
+South Carolina General Assembly  124th Session, 2021-2022
+
+Download This Bill in Microsoft Word format
+
+Indicates Matter Stricken
+
+Indicates New Matter
+
+H. 4343
+
+STATUS INFORMATION
+
+General Bill  Sponsors: Reps. Taylor, Allison, Thayer, Fry, Wooten, Huggins, Oremus, Hixon, Long, Willis, Burns, Trantham, Hardee, McCabe, Magnuson, Blackwell, Forrest, Stringer, V.S. Moss, G.R. Smith, Dabney, M.M. Smith, McCravy, McGarry, May, B. Cox, Erickson, W. Newton, Bradley, Herbkersman, Daning and Bennett  Document Path: l:\council\bills\rt\17031wab21.docx
+
+Introduced in the House on May 5, 2021  Currently residing in the House Committee on Education and Public Works
+
+Summary: Academic Integrity Act
+
+HISTORY OF LEGISLATIVE ACTIONS
+
+Date      Body   Action Description with journal page number  -------------------------------------------------------------------------------      5/5/2021  House   Introduced and read first time      5/5/2021  House   Referred to Committee on Education and Public Works     5/11/2021  House   Member(s) request name added as sponsor: McGarry, May      6/8/2021  House   Member(s) request name added as sponsor: B.Cox,                           Erickson, W.Newton, Bradley, Herbkersman     6/21/2021  House   Member(s) request name added as sponsor: Daning
+
+View the latest legislative information at the website
+
+VERSIONS OF THIS BILL
+
+5/5/2021
+
+(Text matches printed bills.  Document has been reformatted to meet World Wide Web specifications.)
+
+A BILL
+
+TO AMEND THE CODE OF LAWS OF SOUTH CAROLINA, 1976, TO ENACT THE "SOUTH CAROLINA ACADEMIC INTEGRITY ACT" BY ADDING ARTICLE 5 TO CHAPTER 29, TITLE 59 SO AS TO DEFINE NECESSARY TERMS, TO PROVIDE PUBLIC SCHOOL WEBSITES MUST INCLUDE CERTAIN INFORMATION AND MEANS OF PROVIDING RELATED FEEDBACK CONCERNING INSTRUCTIONAL MATERIALS AND CURRICULA IN USE; TO PROVIDE RELATED REPORTING REQUIREMENTS OF THE STATE DEPARTMENT OF EDUCATION AND SCHOOL DISTRICTS; TO PROHIBIT THE TEACHING, USE, OR PROMOTION OF THE 1619 PROJECT OR CERTAIN OTHER TENETS; TO PROVIDE FOR THE WITHHOLDING OF FUNDING FOR NONCOMPLIANCE WITH CERTAIN PROVISIONS OF THIS ACT; AND TO PROVIDE  REQUIREMENTS FOR PUBLIC SCHOOLS THAT SEEK OR RECEIVE FEDERAL GRANTS RELATED TO HISTORY OR SOCIAL STUDIES EDUCATION.
+
+Be it enacted by the General Assembly of the State of South Carolina:
+
+SECTION    1.    This act must be known and may be cited as the "South Carolina Academic Integrity Act."
+
+SECTION 2. Chapter 29, Title 59 of the 1976 Code is amended by adding:
+
+"Article 5
+
+Academic Integrity
+
+Section    59-29-610.    (A)    For the purposes of this article:
+
+(1)    '1619 Project' means the 1619 Project initiative of the New York Times.
+
+(2)    'Public school' means a school, career and technical education center, or vocational center that is under the authority of a local public school board or charter school authorizer. A 'public school' also includes the:
+
+(a)    Governor's School for the Arts and Humanities;
+
+(b)    Governor's School for Agriculture at John de la Howe;
+
+(c)    Special School of Science and Mathematics, also referred to as the Governor's School for Science and Mathematics; and
+
+(d)    Wil Lou Gray Opportunity School.
+
+Section 59-29-620.    (A)    (1)    Beginning with the 2022-2023 School Year, each public school shall include and maintain a link on the homepage of its website that provides a detailed list of instructional materials and curricula used in the school. For the purposes of this section, the information included on the list of instructional materials includes, but is not limited to, the title, author, creator, and publisher of any book, periodical, treatise, article, recording, software, webpage, or paper.
+
+(2)    Each school shall review instructional materials of each course it offers and update the instructional materials online as needed to include additions or deletions from the list of materials used before the course may be offered.
+
+(3)    The department shall withhold one percent of a district's Education Finance Act funds for each class in the district that fails to publish or update a list of instructional materials within five business days after the beginning of a course as required in items (1) and (2).
+
+(B)    In addition to the requirements of subsection (A), each public school shall include and maintain on its website:
+
+(1)    a phone number and e-mail address for parents, legal guardians, and the public to contact appropriate personnel at the school and district office to ask questions, voice concerns, or make recommendations regarding instructional materials and curricula to the schools and districts;
+
+(2)    a phone number and e-mail address for parents, legal guardians, and the public to contact appropriate personnel at the State Department of Education to ask questions, voice concerns, make recommendations, or provide other information concerning instructional materials and curricula used in a district to the department; and
+
+(3)    an electronic form, created by the school or district, for submission of complaints regarding instructional materials and curricula to both the school and district.
+
+(C)    Each school shall report the number of complaints regarding curricula and instructional materials that it receives to the department pursuant to subsections (A) and (B) before August 1, 2023, and annually thereafter. The department shall report the number of such complaints received by each school to the General Assembly before September 1, 2023, and annually thereafter.
+
+(D)    The Governor's School for the Arts and Humanities, the Governor's School for Agriculture at John de la Howe, the Special School of Science and Mathematics, also referred to as the Governor's School for Science and Mathematics, and the Wil Lou Gray Opportunity School shall follow the reporting requirements of this section. Before July 1, 2023, and annually thereafter, a school shall surrender to the State Treasurer an amount equivalent of one percent of its state general fund appropriation for each class that fails to update its instructional materials list.
+
+Section 59-29-630.    (A)    A public school district may not direct or otherwise compel students to personally affirm, adopt, or adhere to any of the following tenets:
+
+(1)    that any sex, race, ethnicity, religion, color, or national origin is inherently superior or inferior;
+
+(2)    that individuals should be adversely treated on the basis of their sex, race, ethnicity, religion, color, or national origin; or
+
+(3)    that individuals, by virtue of sex, race, ethnicity, religion, color, or national origin, are inherently responsible for actions committed in the past by other members of the same sex, race, ethnicity, religion, color, or national origin.
+
+(B)    A distinction or classification of students may not be made on account of race or color.
+
+(C)    A course of instruction or unit of study directing or otherwise compelling students to personally affirm, adopt, or adhere to any of the tenets identified in subsection (A) may not be used or introduced in any public school.
+
+(D)    A student, administrator, teacher, staff member, other school or district employee, or volunteer may not be required to engage in any form of mandatory gender or sexual diversity training or counseling.
+
+(E)    A student, administrator, teacher, staff member, other school or district employee, or volunteer may not be required to create or participate in a professional development, training, or a course that includes the following concepts:
+
+(1)    one race or sex is inherently superior to another race or sex;
+
+(2)    an individual, by virtue of his or her race or sex, is inherently racist, sexist or oppressive, whether consciously or unconsciously,
+
+(3)    an individual should be discriminated against or receive adverse treatment solely or partly because of his or her race or sex;
+
+(4)    members of one race or sex cannot and should not attempt to treat others without respect to race or sex;
+
+(5)    an individual's moral character is necessarily determined by his or her race or sex,
+
+(6)    an individual, by virtue of his or her race or sex, bears responsibility for actions committed in the past by other members of the same race or sex;
+
+(7)    any individual should feel discomfort, guilt, anguish or any other form of psychological distress on account of his or her race or sex; or,
+
+(8)    meritocracy or traits such as a hard work ethic are racist or sexist or were created by members of a particular race to oppress members of another race.
+
+Section 59-29-640.    (A)    A public school shall not teach, use, or provide for use by any pupil the 1619 Project as part of any curriculum, course materials, or instruction in any course. Schools may not teach, affirm, or promote as an accurate account or representation of the founding and history of the United States of America any of the claims, views, or opinions presented in the 1619 Project as part of any curriculum, course materials, or instruction in any course given in such school.
+
+(B)    The department shall withhold one percent of a district's Education Finance Act funds for each class that uses all, or part of, the 1619 Project instructional materials or curriculum.
+
+(C)    The Governor's School for the Arts and Humanities, the Governor's School for Agriculture at John de la Howe, the Special School of Science and Mathematics, also referred to as the Governor's School for Science and Mathematics, and the Wil Lou Gray Opportunity School shall surrender to the State Treasurer before July 1, 2023, and annually thereafter, an amount equivalent to one percent of its state general fund appropriation for each class that uses all, or part of, the 1619 Project instructional materials or curriculum.
+
+Section 59-29-650.    (A)    A public school that applies for and receives a grant from the United States Department of Education after March 1, 2021, relating to history or civics education shall provide the following information to the State Department of Education no later than thirty days of being notified that the grant will be, or was, rewarded. The report must contain:
+
+(1)    a copy of the complete application including supporting documents that was sent to the United States Department of Education;
+
+(2)    the amount of funding to be received from the United States Department of Education; and
+
+(3)    a complete listing of curricula and instructional materials to be used.
+
+(B)    The State Department of Education shall provide a report to the General Assembly by August 1, 2022, and annually thereafter, of all schools or school personnel who applied for and received a grant as defined in subsection (A). The department shall make the application and supporting information available to the public.
+
+(C)    Upon receipt of a grant as identified in subsection (A), the school shall inform parents and legal guardians of the curricula and instructional materials to be used and shall provide in printed or electronic form at the parent or guardian's request.
+
+(D)    State or local funds may not be used in conjunction with any grant funds received pursuant to subsection (A)."
+
+SECTION    3.    This act takes effect upon approval by the Governor.
+
+----XX----
+
+This web page was last updated on  December 1, 2021 at 3:14 PM

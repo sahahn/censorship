@@ -1,0 +1,1485 @@
+Introduced Version
+HOUSE BILL No. 1040
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 10-21-1-2; IC 20-19-5; IC 20-20-8-8;
+IC 20-22.5; IC 20-26-14-8; IC 20-28-5-7; IC 20-30; IC 20-31;
+IC 20-33-13; IC 20-34; IC 34-30-28-1.
+Synopsis: Educationmatters.Defines "qualified school".Providesthat
+a school corporation or qualified school is prohibited from subjecting
+any student to, or making available, disseminating, or providing to any
+student, any obscene matter or performance or certain matters or
+performances harmfultominors.Providesthat each school corporation
+or qualified schoolshall provide for allstudentsin grades 6 through 12
+as part of required recitation concerning the system of government in
+Indiana and in the United States, instruction that socialism, Marxism,
+communism, totalitarianism, or similar political systems are
+incompatible with and in conflict with the principles of freedom upon
+which the United States was founded. Provides that a school
+corporation or qualified school may not provide instruction that
+socialism, Marxism, totalitarianism, or similar political systems are
+compatible with the principles of freedom upon which the United
+States was founded. Provides that a parent of a student or an
+emancipated student who attends a school corporation or qualified
+school may opt out of a face mask or face covering requirement.
+Requiresthe department of education (department) to develop a notice
+form that may be used by a parent or an emancipated student to
+indicate that the parent or emancipated student opts out of the face
+mask or face covering requirement. Provides that the governor, a state
+agency, a local health board or local health officer, or a school
+corporation or qualified school may not require a student of a school
+(Continued next page)
+Effective: Upon passage; January 1, 2021 (retroactive); July 1, 2022.
+Prescott, Jeter, Davis, Morrison
+January 4, 2022, read first time and referred to Committee on Education.
+2022 IN 1040—LS 6399/DI 116
+Digest Continued
+corporation or qualified school to quarantine against COVID-19 or
+other communicable disease if the student is asymptomatic. Provides
+that the governor, a state agency, a local health board or local health
+officer, or a school corporation or qualified school may not require, as
+a condition for employment, enrollment, attendance, or participation in
+a school corporation or qualified school or in a school extracurricular
+activity, a student to be immunized against COVID-19 or other
+communicable disease. Providesthat, after December 31, 2020, the list
+of communicable diseasesthat require documentation ofimmunity for
+a student may be expanded or modified only by an act of the general
+assembly.Establishes certain consentrequirementsregardingstudents.
+Provides that, if the attorney general determines that a school
+corporation or qualified school: (1) discloses a student education
+record, or any information in a student education record; or (2) has a
+student who is less than 18 years of age and is not emancipated
+participate in anymedical inspection,medical treatment,mental health
+assessment, mental health service, psychiatric or psychological
+examination or test, or psychiatric or psychological treatment without
+the informed written consent of the student's parent; the attorney
+general may assess a civil penalty against the school corporation,
+charter school, or laboratory school. Provides that the parent of a
+student or protected right petitioner may bring a civil action for certain
+violations. Defines "protected right violations". Defines "protected
+right petitioner".Establishes proceduresfor a protected right petitioner
+to file a complaint form alleging a protected right violation occurred
+within a school corporation or qualified school. Provides that a
+protected right petitionermayappeal a school corporation's or qualified
+school'sfindingsto the department.Requiresthe departmenttoappoint
+an administrative law judge to adjudicate appeals. Requires the
+department to issue a final order. Requires the attorney general or the
+attorneygeneral's designee toreviewa school corporation's or qualified
+school's findings or the department's final order. Provides that the
+attorney general may assess civil penalties if the attorney general
+determines a protected right violation occurred. Providesthat a school
+corporation or qualified school may not take retaliatory action against
+a protected right petitioner or an individualrelated to or associated with
+the protected right petitioner. Provides that, if a school corporation or
+qualified school uses a third party vendor in providing a personal
+analysis, evaluation, or survey that reveals or attempts to affect a
+student's attitudes, habits, traits, opinions, beliefs, or feelings, the third
+party vendor and the school corporation or public school may not
+collect or maintain the responses to or results of the analysis,
+evaluation, or survey in a manner that would identify the responses or
+results of an individualstudent. Providesthat the consentrequirements
+for certain student personal analysis, evaluations, orsurveys applyeven
+if the analysis, evaluation, or survey is directly related to academic
+instruction. Requires, not later than June 30, 2022, and not later than
+June 30 each year thereafter, each qualified school to post on the
+qualified school's Internet web site, in a manner that is accessible by
+the public, certain information regarding learning materials and
+educational activities. Requiresthe department to develop and post on
+the department's Internet web site a model plan for presenting the
+learning material or educational activity information. Makes changes
+to information that must be included on a school corporation's annual
+performance report. Makes changes to information that must be
+included on a school's longitudinal dashboard. Reconciles versions of
+IC10-21-1-2 that were enacted by the 2019 general assembly.Repeals
+provisions requiring the department to develop the children's social,
+emotional, and behavioral healthplan.Makes conformingamendments.
+2022 IN 1040—LS 6399/DI 116
+Introduced
+Second Regular Session of the 122nd General Assembly (2022)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEWwill appear in thatstyle type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2021 Regular Session of the General Assembly.
+HOUSE BILL No. 1040
+A BILL FOR AN ACT to amend the Indiana Code concerning
+education.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 10-21-1-2, AS AMENDED BY P.L.197-2019,
+2 SECTION 3, AND AS AMENDED BY P.L.50-2019, SECTION 2,
+3 AND AS AMENDED BY P.L.153-2019, SECTION 1, AND AS
+4 AMENDED BY P.L.272-2019, SECTION 3, IS CORRECTED AND
+5 AMENDED TO READ AS FOLLOWS [EFFECTIVE UPON
+6 PASSAGE]: Sec. 2. (a) The Indiana secured school fund is established
+7 to provide:
+8 (1) matching grants to enable school corporations, and charter
+9 schools, and accredited nonpublic schools to establish programs
+10 underwhich a school corporation, or charterschool,oraccredited
+11 nonpublic school (or a coalition of schools) may:
+12 (1) (A) employ a school resource officer, employ a law
+13 enforcement officer, or enter into a contract or a memorandum
+14 of understanding with a:
+15 (A) (i) local law enforcement agency;
+2022 IN 1040—LS 6399/DI 116
+2
+1 (B) (ii) private entity; or
+2 (C) (iii) nonprofit corporation;
+3 to employ a school resource officer or a law enforcement
+4 officer;
+5 (2) (B) conduct a threat assessment of the buildings within a
+6 school corporation or the buildings that are operated by a
+7 charter school or accredited nonpublic school; or
+8 (3) (C) purchase equipment and technology to:
+9 (A) (i) restrict access to school property; or
+10 (B) (ii) expedite notification of first responders; or
+11 (4) (D) implement a student and parent support services plan
+12 as described in section 4(a)(5) of this chapter; and
+13 (2) one (1) time grants to enable school corporations, charter
+14 schools, and accredited nonpublic schools with the sheriff forthe
+15 county in which the school corporation, charter school, or
+16 accredited nonpublic school is located, to provide the initial set
+17 up costs for an active event warning system.
+18 (b)Aschool corporation or charterschool may use money received
+19 under a matching grant for a purpose listed in subsection (a) to
+20 provide a response to a threat in a mannerthat the school corporation
+21 or charter school sees fit, including firearms training or other
+22 self-defense training.
+23 (b) (c) The fund shall be administered by the department of
+24 homeland security.
+25 (c) (d) The fund consists of:
+26 (1) appropriations from the general assembly;
+27 (2) grants from the Indiana safe schools fund established by
+28 IC 5-2-10.1-2;
+29 (3) civil penalties assessed by the attorney general under
+30 IC 20-22.5-4-4 or IC 20-33-13-10;
+31 (3) (4) federal grants; and
+32 (4)(5) amounts deposited fromanyother public or private source.
+33 (d) (e) The expenses of administering the fund shall be paid from
+34 money in the fund.
+35 (e) (f) The treasurer of state shall invest the money in the fund not
+36 currently needed to meet the obligations of the fund in the same
+37 manner as other public money may be invested. Interest that accrues
+38 from these investments shall be deposited in the fund.
+39 (f) (g) Money in the fund at the end of a state fiscal year does not
+40 revert to the state general fund.
+41 SECTION 2. IC 20-19-5 IS REPEALED [EFFECTIVE JULY 1,
+42 2022]. (Children's Social, Emotional, and Behavioral Health Plan).
+2022 IN 1040—LS 6399/DI 116
+3
+1 SECTION 3. IC 20-20-8-8, AS AMENDED BY P.L.215-2018(ss),
+2 SECTION 7,IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 8. (a) The report must include the following
+4 information:
+5 (1) Student enrollment.
+6 (2) Graduation rate (as defined in IC 20-26-13-6) and the
+7 graduation rate excluding students that receive a graduation
+8 waiver under IC 20-32-4-4 or IC 20-32-4-4.1.
+9 (3) Attendance rate.
+10 (4) The following test scores, including the number and
+11 percentage of students meeting academic standards:
+12 (A) All state standardized assessment scores.
+13 (B) Scores for assessments under IC 20-32-5-21 (before its
+14 expiration on July 1, 2018), if appropriate.
+15 (C) For a freeway school, scores on a locally adopted
+16 assessment program, if appropriate.
+17 (5) Average class size.
+18 (6) The school's performance category or designation of school
+19 improvement assigned under IC 20-31-8.
+20 (7) The number and percentage of students in the following
+21 groups or programs:
+22 (A) Alternative education, if offered.
+23 (B) Career and technical education.
+24 (C) Special education.
+25 (D) High ability.
+26 (E) Limited English language proficiency.
+27 (F) Students receiving free or reduced price lunch under the
+28 national school lunch program.
+29 (G) Students in foster care.
+30 (8) Advanced placement, including the following:
+31 (A) For advanced placement tests, the percentage ofstudents:
+32 (i) scoring three (3), four (4), and five (5); and
+33 (ii) taking the test.
+34 (B) For the Scholastic Aptitude Test:
+35 (i) the average test scores for all students taking the test;
+36 (ii) the average test scores for students completing the
+37 Indiana diploma with a Core 40 with academic honors
+38 designation program; and
+39 (iii) the percentage of students taking the test.
+40 (9) Course completion, including the number and percentage of
+41 students completing the following programs:
+42 (A) Academic honors curriculum.
+2022 IN 1040—LS 6399/DI 116
+4
+1 (B) Core 40 curriculum.
+2 (C) Career and technical programs.
+3 (10) The percentage of graduates considered college and career
+4 ready in a manner prescribed by the state board.
+5 (11) School safety, including:
+6 (A) the number ofstudents receiving suspension or expulsion
+7 for the possession of alcohol, drugs, or weapons; and
+8 (B) the number of incidents reported under IC 20-33-9.
+9 (12) Financial information and various school cost factors
+10 required to be provided to the office of management and budget
+11 under IC 20-42.5-3-5.
+12 (13) The number and percentage of each of the following within
+13 the school corporation:
+14 (A) Teachers who are certificated employees (as defined in
+15 IC 20-29-2-4).
+16 (B) Teachers who teach the subject area for which the teacher
+17 is certified and holds a license.
+18 (C) Teachers with national board certification.
+19 (14) The percentage of grade 3 students reading at grade 3 level.
+20 (15) The number of students expelled, including the percentage
+21 ofstudents expelled disaggregated by race, grade, gender, free or
+22 reduced price lunch status, eligibility for special education, and
+23 students in foster care.
+24 (16)Chronic absenteeism, which includesthe number ofstudents
+25 who have been absent from school for ten percent (10%) or more
+26 of a school year for any reason.
+27 (17)Habitualtruancy,which includesthe number ofstudentswho
+28 have been absent ten (10) days or more from school within a
+29 school year without being excused or without being absent under
+30 a parental request that has been filed with the school.
+31 (18) The number of students who have dropped out of school,
+32 including the:
+33 (A) reasons for dropping out; and
+34 (B) percentage of students who have dropped out,
+35 disaggregated by race, grade, gender, free or reduced price
+36 lunch status, eligibility for special education, and students in
+37 foster care.
+38 (19) The number of out ofschoolsuspensions assigned, including
+39 the percentage of students suspended disaggregated by race,
+40 grade, gender, free or reduced price lunch status, eligibility for
+41 special education, and students in foster care.
+42 (20) The number ofin schoolsuspensions assigned, including the
+2022 IN 1040—LS 6399/DI 116
+5
+1 percentage of students suspended disaggregated by race, grade,
+2 gender, free or reduced price lunch status, eligibility for special
+3 education, and students in foster care.
+4 (21) The number of student work permits revoked.
+5 (22) The number of students receiving an international
+6 baccalaureate diploma.
+7 (23) The number of:
+8 (A) complaints filed under IC 20-22.5-4-2;
+9 (B) complaints included under clause (A) that were
+10 dismissed or not investigated;
+11 (C) complaints included under clause (A) that were
+12 investigated in which no protected right violation (as
+13 defined in IC 20-22.5-2-6) occurred;
+14 (D) complaints included under clause (A) that were
+15 investigated in which a protected right violation (as
+16 defined in IC 20-22.5-2-6) was found;
+17 (E) disciplinary actions, other than termination, that
+18 resulted from findings described in clause (D);
+19 (F) disciplinary actions resulting in the termination of a
+20 school employee, that resulted from findings described in
+21 clause (D); and
+22 (G) school employees who resigned as a result of findings
+23 described in clause (D).
+24 (b) Section 3(a) of this chapter does not apply to the publication of
+25 information required under this subsection. This subsection applies to
+26 schools, including charter schools, located in a county having a
+27 consolidated city, including schools located in excluded cities (as
+28 defined in IC 36-3-1-7). A separate report including the information
+29 reported under subsection (a) must be:
+30 (1) disaggregated by race, grade, gender, free or reduced price
+31 lunch status, eligibility for special education, and students in
+32 foster care; and
+33 (2) made available on the Internet as provided in section 3(b) of
+34 this chapter.
+35 SECTION 4.IC20-22.5 ISADDEDTOTHEINDIANACODEAS
+36 A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE UPON
+37 PASSAGE]:
+38 ARTICLE22.5.PROTECTIONSFORSTUDENTS,PARENTS,
+39 AND EDUCATORS
+40 Chapter 1. Policy and Applicability
+41 Sec. 1. This article applies to:
+42 (1) a school corporation;
+2022 IN 1040—LS 6399/DI 116
+6
+1 (2) a charter school;
+2 (3) the Indiana School for the Blind and Visually Impaired
+3 established by IC 20-21-2-1;
+4 (4) the Indiana School for the Deaf established by
+5 IC 20-22-2-1; and
+6 (5) a laboratory school established under IC 20-24.5-2.
+7 Sec. 2. The provisions of this article are severable as provided
+8 in IC 1-1-1-8(b).
+9 Chapter 2. Definitions
+10 Sec. 1. The definitions in this chapter apply throughout this
+11 article.
+12 Sec. 2. "Course" means any forum where instruction or
+13 activities tied to the instruction are provided, including:
+14 (1) courses;
+15 (2) training;
+16 (3) seminars;
+17 (4) professional development;
+18 (5) lectures;
+19 (6) sessions;
+20 (7) coaching;
+21 (8) tutoring; or
+22 (9) classes.
+23 Sec. 3. "COVID-19" hasthe meaning setforth inIC16-39-11-1.
+24 Sec. 4. "Face mask or face covering" means a covering for the
+25 nose and mouth that is worn to reduce the spread of an infectious
+26 agent or other pathogen.
+27 Sec. 5. "Protected right petitioner" means:
+28 (1) a parent or an emancipated student;
+29 (2) a school employee;
+30 (3) a member of the governing body of the school corporation
+31 (or the equivalent for a charter school) for which the member
+32 intends to submit a complaint under IC 20-22.5-4-2;
+33 (4) a member or employee of the state board;
+34 (5) the state superintendent or an employee of the
+35 department; or
+36 (6) an individual who resides within the attendance area of a:
+37 (A) school corporation where the individual intends to
+38 submit a complaint form under IC 20-22.5-4-2; or
+39 (B)school corporation for a particular school described in
+40 section 7(2) through 7(5) of this chapter that is physically
+41 locatedwhere the individual intendsto submit a complaint
+42 form under IC 20-22.5-4-2.
+2022 IN 1040—LS 6399/DI 116
+7
+1 Sec. 6. "Protected right violation" refersto a violation of any of
+2 the following:
+3 (1) IC 20-22.5-3.
+4 (2) IC 20-30-5-4(b).
+5 (3) IC 20-30-5-5.
+6 (4) IC 20-30-5-6.
+7 (5) IC 20-30-5-17.
+8 (6) IC 20-30-17.
+9 (7) IC 20-33-13.
+10 Sec. 7. "Qualified school" means the following:
+11 (1) A school maintained by a school corporation.
+12 (2) A charter school.
+13 (3) Alaboratory school established under under IC20-24.5-2.
+14 (4) The Indiana School for the Blind and Visually Impaired
+15 established by IC 20-21-2-1.
+16 (5) The Indiana School for the Deaf established by
+17 IC 20-22-2-1.
+18 Chapter 3. Prohibited Curriculum and Practices
+19 Sec. 1. (a) It is hereby declared to be the policy of the state of
+20 Indiana to prohibit discrimination on the basis of race or sex in the
+21 form of bias, stereotyping, scapegoating, classification, or
+22 categorical assignment of traits, morals, values, or characteristics
+23 based solely on race or sex. School corporations and qualified
+24 schools are prohibited from engaging in race based or sex based
+25 discriminatory acts by using methods described in subsection (b),
+26 which result in treating individuals differently on the basis of race
+27 or sex or in the creation of a hostile environment.
+28 (b) A school corporation or qualified school may not include or
+29 promote the following concepts as part of a course, or allow
+30 teachers or other employees of the school corporation or qualified
+31 school to use supplemental instructional materials that include or
+32 promote the following concepts:
+33 (1) One (1) race or sex is inherently superior to another race
+34 or sex.
+35 (2) An individual, by virtue of the individual's race or sex, is
+36 inherently privileged, racist, sexist, or oppressive, whether
+37 consciously or subconsciously.
+38 (3) An individual should be discriminated against or receive
+39 adverse treatment because of the individual's race or sex.
+40 (4) Members of one (1) race or sex cannot and should not
+41 attempt to treat others without respect to race or sex.
+42 (5) An individual's moral character is determined by the
+2022 IN 1040—LS 6399/DI 116
+8
+1 individual's race or sex.
+2 (6) An individual, by virtue of the individual's race or sex,
+3 bears responsibility for actions committedinthepast by other
+4 members of the same race or sex.
+5 (7) An individual should feel discomfort, guilt, or anguish or
+6 another form of psychological distress solely because of the
+7 individual's race or sex.
+8 (8) Meritocracy or traitssuch as hard work ethic are racist or
+9 sexist, or designed by a particular race or sex to oppress
+10 members of another race or sex.
+11 (9) Indiana or the United States was founded as a racist or
+12 sexist state or nation and is fundamentally or irredeemably
+13 racist or sexist.
+14 (c)Notwithstanding subsection(b),thissectiondoesnotprohibit
+15 a school corporation or qualified school from including, as part of
+16 a course, or from allowing teachers or other employees of the
+17 school corporation or qualified school to use supplemental
+18 instructional materials that provide the following:
+19 (1) The history of an ethnic group.
+20 (2) The impartial discussion of controversial aspects of
+21 history.
+22 (3) The impartial instruction on the historical oppression of a
+23 particular group of people based on race, ethnicity, class,
+24 nationality, religion, or geographic region.
+25 (4) Historical documents relevant to topics described in
+26 subdivisions (1) through (3).
+27 (d) Nothing in this section may be construed to prohibit the
+28 required collection or reporting of demographic data by a school
+29 corporation or qualified school.
+30 Sec. 2. A school corporation or qualified school is prohibited
+31 from:
+32 (1) violating IC 35-49-3-3 (dissemination of matter or
+33 conducting performance harmful to minors); or
+34 (2)subjectinganystudentto,making available,disseminating,
+35 or providing any student:
+36 (A) any obscene matter or performance as described in
+37 IC 35-49-2-1;
+38 (B) any matter or performance harmful to minors as
+39 described in IC 35-49-2-2; or
+40 (C) any matter that violates IC 35-42-4-4 (child
+41 exploitation).
+42 Sec. 3. A school corporation or qualified school may notinclude
+2022 IN 1040—LS 6399/DI 116
+9
+1 or promote a concept as part of a course, or allow teachers or other
+2 employees ofthe school corporationor qualifiedschoolto promote
+3 a concept that contradicts IC 20-30-5-4(b).
+4 Sec. 4. (a) Notwithstanding any other law, in the event:
+5 (1) that:
+6 (A) the governor;
+7 (B) a state agency; or
+8 (C) a local health board or local health officer;
+9 issues an enforcement action, order, or mandate under
+10 IC 16-20-1-21 or as part of a declared disaster emergency
+11 under IC 10-14-3-12; or
+12 (2) a school corporation or qualified school issues an order or
+13 mandate;
+14 relatedto theCOVID-19 pandemic or other communicabledisease
+15 that requires a student or school employee of a school corporation
+16 or qualified school to wear a face mask or face covering on school
+17 premises orwhileusing schooltransportation, aparent of a student
+18 or an emancipated student or a school employee may opt out of the
+19 requirement by providing a notice to the school corporation or
+20 qualified school on a form developed by the department under
+21 subsection (b).
+22 (b) The department shall develop a notice form, in a manner
+23 prescribed by the department, to be used by a parent of a student
+24 or an emancipated student described in subsection (a) who wishes
+25 to opt out of a face mask or face covering requirement. The
+26 department shall maintain a copy of the notice form on the
+27 department's Internet web site. Each school corporation and
+28 qualified school shall maintain a link to the notice form on the
+29 school corporation's or qualified school's Internet web site.
+30 Sec. 5. The governor or a:
+31 (1) state agency;
+32 (2) local health board or local health officer; or
+33 (3) school corporation or qualified school;
+34 may not require, as a condition for employment, enrollment,
+35 attendance, or participation in a school corporation or qualified
+36 school or school extracurricular activity, a student or a school
+37 employee to be immunized against COVID-19 or other
+38 communicable disease unless authorized by the general assembly
+39 under IC 20-34-4-2(c).
+40 Sec. 6. The governor or a:
+41 (1) state agency;
+42 (2) local health board or local health officer; or
+2022 IN 1040—LS 6399/DI 116
+10
+1 (3) school corporation or public school;
+2 may not require a student of a school corporation or qualified
+3 school to quarantine against COVID-19 or other communicable
+4 disease if the student is asymptomatic.
+5 Sec. 7. A school corporation or qualified school may not do the
+6 following:
+7 (1) Provide, contract to provide, offer, or sponsor any course
+8 thatincludes,incorporates, or isbasedonpracticesprohibited
+9 under this chapter.
+10 (2) Use money, property, assets, or resources for a purpose
+11 thatincludes,incorporates, or isbasedonpracticesprohibited
+12 under this chapter.
+13 (3) Adopt programs or use curricular material, instructional
+14 material, curriculum, classroom assignments, orientation,
+15 interventions, or counseling that include, incorporate, or are
+16 based on practices prohibited under this chapter.
+17 (4) Execute a contract or agreement with an internal or
+18 external entity or person to provide services, training,
+19 professional development, or any other assistance that
+20 includes or incorporates practices prohibited under this
+21 chapter.
+22 (5) Receive or apply to receive money that requires, as a
+23 condition of receipt of the money, the adoption of a course,
+24 policy, curriculum, or any other instructional material that
+25 includes, incorporates, or is based on practices prohibited
+26 under this chapter.
+27 (6) Adopting diversity, equity, or inclusion plans or training
+28 for students or school employees that includes, incorporates,
+29 or is based on practices prohibited under this chapter. A
+30 diversity officer at a school corporation, qualified school, or
+31 educationalprogramisprohibitedfromproviding any service
+32 or performing any duty that includes, incorporates, or is
+33 based on practices prohibited under this chapter.
+34 (7) Adopting policies, including grading or admissions
+35 policies, or providing any other benefit or service that applies
+36 to students or school employeesdifferently onthebasis of race
+37 or sex. This includes segregated classes, programs, training
+38 sessions, extracurricular activities, or affinity groups.
+39 Sec. 8. Neither the state board nor the department may do the
+40 following:
+41 (1)Establish or mandate any state standardor adopt any rule
+42 under IC 4-22-2 that includes, incorporates, or is based on
+2022 IN 1040—LS 6399/DI 116
+11
+1 practices prohibited under this chapter.
+2 (2) Provide:
+3 (A) resources;
+4 (B) instructional support; or
+5 (C) courses;
+6 thatinclude,incorporate,or arebasedonpracticesprohibited
+7 under this chapter. This prohibition includes executing
+8 contracts or agreements with an external entity or individual
+9 to provide services, courses, or any other assistance that
+10 includes, incorporates, or is based on practices prohibited
+11 under this chapter.
+12 (3) Receive or apply to receive money that requires, as a
+13 condition of receipt of the money, the adoption of programs,
+14 policies, curriculum, or any other learning material that
+15 includes, incorporates, or is based on practices prohibited
+16 under this chapter.
+17 Chapter 4. Compliance
+18 Sec. 1. (a) The department shall develop a complaint form, in a
+19 manner prescribed by the department, to be used by a protected
+20 right petitioner to file a complaint with a school corporation or
+21 qualifiedschoolinthemannerdescribedinsection2 ofthis chapter
+22 alleging a protected right violation. The complaint form must
+23 contain the following information:
+24 (1) The date of the complaint.
+25 (2) The date or datesthatthe allegedprotected right violation
+26 occurred.
+27 (3) A detailed description of the alleged protected right
+28 violation.
+29 (4)Information necessary to enable the school corporation or
+30 qualified school to investigate the alleged protected right
+31 violation.
+32 (5)The option for the protectedright petitioner to provide the
+33 identification of witnessesthe school corporation or qualified
+34 school may interview, if applicable.
+35 (b)The departmentshall maintain a copy ofthe complaintform
+36 on the department's Internet web site. In addition, each school
+37 corporation and qualified school must maintain a link to the
+38 complaint form on the school corporation's or qualified school's
+39 Internet web site.
+40 Sec. 2.(a)Aprotectedrightpetitioner may file a complaintform
+41 developed by the department under section 1 of this chapter with
+42 a school corporation or qualified school alleging a violation of this
+2022 IN 1040—LS 6399/DI 116
+12
+1 article.The school corporation or qualified schoolshall investigate
+2 each complaint form to determine whether a violation occurred.
+3 (b) Each school corporation shall designate at least one (1)
+4 employee to respond to complaints under this chapter. Every
+5 qualified school other than a qualified school that is part of a
+6 school corporation shall designate at least one (1) employee to
+7 review complaints under this chapter submitted to the particular
+8 qualified school. Each school corporation or qualified school shall
+9 include contact information including the:
+10 (1) name;
+11 (2) address;
+12 (3) telephone number; and
+13 (4) electronic mail address;
+14 for the designated individual on the school corporation's or
+15 qualified school's Internet web site.
+16 (c) Upon receipt of a complaint form, the school corporation or
+17 qualified school shall acknowledge receipt of the complaint form
+18 not later than three (3) business days of receipt of the complaint
+19 form. The school corporation or qualified school shall investigate
+20 the complaint within ten (10) business days of receipt of the
+21 complaint form and make findingsthatshall be sent by mail to the
+22 protected right petitioner. If the school corporation or qualified
+23 school finds:
+24 (1)that aprotectedright violationoccurred,the findingsmust
+25 include a description of how the school corporation or
+26 qualified school will remedy the protected right violation; or
+27 (2) that a protected right violation did not occur, the findings
+28 must include an explanation of the school corporation's or
+29 qualified school's findings.
+30 The school corporation or qualified school shall provide the
+31 protected right petitioner notice of the protected right petitioner's
+32 right to appeal and the deadline to appeal the findings under
+33 section 3 of this chapter with a copy of the findings mailed to the
+34 protected right petitioner under this subsection.
+35 (d) Nothing in thissection may be construed to require a school
+36 corporation or qualified school to disclose personal identifiable
+37 information of a student.
+38 (e) The school corporation or qualified schoolshallsend a copy
+39 of the findings made under subsection (c) to the attorney general
+40 for review under section 4 of this chapter if the protected right
+41 petitioner does not appeal the findings under section 3 of this
+42 chapter. The school corporation or qualified school shall submit a
+2022 IN 1040—LS 6399/DI 116
+13
+1 copy of the school corporation's or qualified school'sfinding to the
+2 attorney general not later than five (5) business days after the date
+3 required for an appeal to be considered timely under section 3 of
+4 this chapter.
+5 Sec. 3. (a) A protected right petitioner may appeal a school
+6 corporation's or qualified school's findings made under section 2
+7 of this chapter if the protected right petitioner believes that the
+8 school corporation or qualified school has incorrectly refused to
+9 investigate a complaint form or the protected right petitioner has
+10 evidence that a school corporation or qualified school has reached
+11 an incorrect determination under section 2 of this chapter. The
+12 appeal must be submitted to the department by the protected right
+13 petitioner notlater thanthirty (30) days after the date ofthe school
+14 corporation's or qualified school's findings and notice of the
+15 protected right petitioner's right to appeal were mailed to the
+16 protected right petitioner under section 2 of this chapter. The
+17 appeal must be submitted to the department on a form prescribed
+18 by the department. The form shall be available on the
+19 department's Internet web site and the school corporation or
+20 qualified school must maintain a link to the form on the school
+21 corporation's or qualified school's Internet web site.
+22 (b) The department shall send notice to the school corporation
+23 or qualified school of an appeal submitted under this section not
+24 later than three (3) business days of receipt after the appeal.
+25 (c) The department shall appoint an administrative law judge
+26 and conduct adjudicative proceedings under this section in
+27 accordance with IC 4-21.5-3. An administrative law judge shall
+28 issue a final order in accordance to IC 4-21.5-3-27.
+29 (d) If an administrative law judge determines that the school
+30 corporation or qualified school committed a protected right
+31 violation, the final order may do any of the following:
+32 (1) Require the school corporation or qualified school to
+33 remedy the protected right violation.
+34 (2) Withhold state tuition support under IC 20-43 for the
+35 school corporation or qualified school until the protected
+36 right violation is remediedinaccordance with the final order.
+37 (3) Recommend that the state board revoke the school
+38 corporation's or qualified school's performance based
+39 accreditation under IC 20-31-4.1.
+40 (4) Suspend or revoke a license under IC 20-28-5-7.
+41 (5) Include a recommendation for the attorney general to
+42 access a civil penalty in accordance with section 4 of this
+2022 IN 1040—LS 6399/DI 116
+14
+1 chapter.
+2 A school corporation or qualified school shall comply with a final
+3 order issued by the department.
+4 (e)Thedepartmentshallsubmit a copy ofthedepartment'sfinal
+5 order to the attorney general not later than five (5) business days
+6 after the date the final order is issued.
+7 Sec. 4. (a) Upon receipt of either:
+8 (1)the findingssubmittedby a school corporationorqualified
+9 school under section 2 of this chapter; or
+10 (2) a final order submitted by the department under section
+11 3 of this chapter;
+12 the attorney general or the attorney general'sdesignee shall review
+13 the findings of the school corporation, qualified school, or
+14 department. The attorney general may request additional
+15 information from the school corporation, qualified school, or
+16 department necessary to review the findings or final order.
+17 (b) If, after conducting the review described in subsection (a),
+18 the attorney general determines that a protected right violation
+19 occurred, the attorney general may assess a civil penalty against
+20 the school corporationorqualifiedschoolinanamountdetermined
+21 under subsection (c). Acivil penalty assessed under thissubsection
+22 must be deposited in the Indiana secured school fund established
+23 by IC 10-21-1-2.
+24 (c) The amount of a civil penalty under subsection (b) is as
+25 follows:
+26 (1) For a first violation, at least one thousand dollars($1,000)
+27 but less than five thousand dollars ($5,000) for each student
+28 who is the subject of a violation under this section.
+29 (2) For a second violation, at least five thousand dollars
+30 ($5,000) but lessthan ten thousand dollars ($10,000) for each
+31 student who is the subject of a violation under this section.
+32 (3) For any violation after a second violation, at least ten
+33 thousand dollars($10,000)for eachstudent who isthe subject
+34 of a violation under this section.
+35 Sec. 5. (a) A protected right petitioner may bring a civil action
+36 against a school corporation or qualified school if the protected
+37 right petitioner is the subject of a protected right violation by the
+38 school corporation or qualified school.
+39 (b) A court may award the following to a protected right
+40 petitioner who prevails in a civil action under this section:
+41 (1) Court costs and reasonable attorney's fees.
+42 (2) The greater of:
+2022 IN 1040—LS 6399/DI 116
+15
+1 (A) actual damages resulting from the violation; or
+2 (B) liquidated damages in an amount of five thousand
+3 dollars ($5,000).
+4 Sec. 6.(a) Aschool corporationor qualified school may not take
+5 any retaliatory actionagainst anyprotectedrightpetitioner, or any
+6 other person related to or associated with the protected right
+7 petitioner, who exercises any right under this article.
+8 (b) A school corporation or qualified school may not take any
+9 retaliatory action against any protected right petitioner, or any
+10 other person related to or associated with the protected right
+11 petitioner, who files a complaint under this chapter.
+12 (c) A court may award the following to an individual who
+13 prevails in a civil action under this section:
+14 (1) Court costs and reasonable attorney's fees.
+15 (2) The greater of:
+16 (A) actual damages resulting from the violation; or
+17 (B) liquidated damages in an amount of five thousand
+18 dollars ($5,000).
+19 Chapter 5. Rulemaking
+20 Sec. 1. The state board may adopt rules under IC 4-22-2 to
+21 implement this article.
+22 SECTION 5. IC 20-26-14-8, AS AMENDED BY P.L.142-2020,
+23 SECTION22,ISAMENDEDTOREADASFOLLOWS[EFFECTIVE
+24 UPON PASSAGE]: Sec. 8. (a) The department shall notify the
+25 association of anylicense revocation orsuspensioninvolvinga licensed
+26 teacher (as defined in IC 20-18-2-22) under IC 20-28-5-8 who:
+27 (1) has:
+28 (A) been convicted of an offense described in IC20-28-5-8(c);
+29 or
+30 (B) committed misconduct described in IC 20-28-5-7(1)
+31 IC 20-28-5-7(a)(1) or IC 20-28-5-7(2); IC 20-28-5-7(a)(2);
+32 and
+33 (2) is also a coach accredited by the association.
+34 (b) A school corporation, charter high school, or nonpublic high
+35 school with at least one (1) employee must report to the association, in
+36 a manner prescribed by the association, when a nonteaching or
+37 volunteer coach accredited by the association has been convicted of an
+38 offense described in IC 20-28-5-8(c).
+39 (c) The association shall develop a rule, as soon as practicable, to
+40 suspend orrevoke the coaching accreditation of a teacherwho has been
+41 reported to the association under subsection (a) for committing
+42 misconduct described in IC 20-28-5-7(1) IC 20-28-5-7(a)(1) or
+2022 IN 1040—LS 6399/DI 116
+16
+1 IC 20-28-5-7(2). IC 20-28-5-7(a)(2).
+2 (d) The association shall revoke the accreditation of any coach who
+3 has been convicted of an offense described in IC 20-28-5-8. The
+4 association may, after holding a hearing on the matter, reinstate the
+5 accreditation of an individual whose accreditation has been revoked by
+6 the association if the individual's conviction has been reversed,
+7 vacated, or set aside on appeal.
+8 (e) Nothing in this section shall be construed to prohibit the
+9 association from revoking a coaching accreditation or otherwise
+10 imposing any other form of discipline for misconduct not described in
+11 IC 20-28-5-7(1), IC 20-28-5-7(a)(1), IC 20-28-5-7(2),
+12 IC 20-28-5-7(a)(2), or IC 20-28-5-8.
+13 (f) The:
+14 (1) association or its employees;
+15 (2) department or its employees; or
+16 (3) school corporation, charter high school, or nonpublic high
+17 school with at least one (1) employee or its employees;
+18 are immune from civil liability for any act done or omitted under this
+19 section or section 9 of this chapter unless the action constitutes gross
+20 negligence or willful or wanton misconduct.
+21 SECTION 6. IC 20-28-5-7, AS AMENDED BY P.L.43-2021,
+22 SECTION87,ISAMENDEDTOREADASFOLLOWS[EFFECTIVE
+23 UPON PASSAGE]: Sec. 7. (a) On the written recommendation of the
+24 secretaryof education, the departmentmaysuspend orrevoke a license
+25 for:
+26 (1) immorality;
+27 (2) misconduct in office;
+28 (3) incompetency; or
+29 (4) willful neglect of duty.
+30 For each suspension or revocation, the department shall comply with
+31 IC 4-21.5-3.
+32 (b) A teacher, principal, or superintendent who:
+33 (1) willfully;
+34 (2) knowingly; and
+35 (3) without probable cause;
+36 makes a false claimina complaintunder IC20-22.5-4 is considered
+37 to have committed misconduct in office under subsection (a).
+38 (c) The department shall revoke the license of a teacher,
+39 principal, or superintendent who is found to have:
+40 (1) willfully; and
+41 (2) knowingly;
+42 committedaprotectedright violation(asdefinedinIC20-22.5-2-6)
+2022 IN 1040—LS 6399/DI 116
+17
+1 under IC 20-22.5-4-2, IC 20-22.5-4-3, or IC 20-22.5-4-4.
+2 SECTION 7. IC 20-30-1-1, AS AMENDED BY P.L.92-2020,
+3 SECTION54,ISAMENDEDTOREADASFOLLOWS[EFFECTIVE
+4 UPON PASSAGE]: Sec. 1. Except as otherwise provided in
+5 IC 20-30-5-17(c), this article applies only to the following:
+6 (1) Public schools.
+7 (2) State accredited nonpublic schools.
+8 SECTION 8. IC 20-30-5-4, AS AMENDED BY P.L.43-2021,
+9 SECTION97,ISAMENDEDTOREADASFOLLOWS[EFFECTIVE
+10 JULY 1, 2022]: Sec. 4. (a) Each public school and nonpublic school
+11 shall provide within the two (2) weeks preceding a general election for
+12 all students in grades 6 through 12 five (5) full recitation periods of
+13 class discussion concerning:
+14 (1) the system of government in Indiana and in the United States;
+15 (2) methods of voting;
+16 (3) party structures;
+17 (4) election laws; and
+18 (5) the responsibilities of citizen participation in government and
+19 in elections.
+20 (b) This subsection applies to a school corporation, qualified
+21 school, or educationalprogramdescribedinIC20-22.5-1-1.During
+22 the discussion described in subsection (a), students must receive
+23 instruction thatsocialism, Marxism, communism, totalitarianism,
+24 or similar political systems are incompatible with and in conflict
+25 with the principles of freedom upon which the United States was
+26 founded. In addition, students must be instructed that if any of
+27 these political systems were to replace the current form of
+28 government, the government of the United States would be
+29 overthrown and existing freedoms under the Constitution of the
+30 United States would no longer exist. As such, socialism, Marxism,
+31 communism, totalitarianism, or similar political systems are
+32 detrimental to the people of the United States.
+33 (b) (c) Except as provided in IC 20-32-4-13, a student may not
+34 receive an Indiana diploma unlessthe student has completed a two (2)
+35 semester course in American history.
+36 (c) (d) If a public school superintendent violates this section, the
+37 secretaryof education shallreceive and record reports ofthe violations.
+38 The general assembly may examine these reports.
+39 SECTION 9. IC 20-30-5-17, AS AMENDED BY P.L.154-2018,
+40 SECTION 1,IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 UPON PASSAGE]: Sec. 17. (a) In addition to the requirements of
+42 IC 20-30-17, each school corporation or qualified school (as defined
+2022 IN 1040—LS 6399/DI 116
+18
+1 in IC 20-22.5-2-7)shall make available for inspection by the parent of
+2 a student any instructional materials, including teachers' manuals,
+3 curricular materials, films or other video materials, tapes, and other
+4 materials, used in connection with:
+5 (1) a personal analysis, an evaluation, or a survey described in
+6 subsection (b); or
+7 (2) instruction on human sexuality.
+8 (b) A student shall not be required to participate in a personal
+9 analysis, an evaluation, or a survey that is not directly related to
+10 academic instruction and that reveals or attemptsto affect the student's
+11 attitudes, habits, traits, opinions, beliefs, or feelings concerning:
+12 (1) political affiliations;
+13 (2) religious beliefs or practices;
+14 (3) mental or psychological conditions that may embarrass the
+15 student or the student's family;
+16 (4) sexual behavior or attitudes;
+17 (5) illegal, antisocial,self-incriminating, or demeaning behavior;
+18 (6) critical appraisals of other individuals with whom the student
+19 has a close family relationship;
+20 (7) legally recognized privileged or confidential relationships,
+21 including a relationship with a lawyer, minister, or physician; or
+22 (8) income (except as required by law to determine eligibility for
+23 participation in a program or for receiving financial assistance
+24 under a program);
+25 without the prior written consent of the student if the student is an
+26 adult or an emancipated minor or the prior written consent of the
+27 student's parent if the student is an unemancipated minor. A parental
+28 consent form for a personal analysis, an evaluation, or a survey
+29 described in this subsection shall accurately reflect the contents and
+30 nature of the personal analysis, evaluation, or survey.
+31 (c)Before a schoolmayprovide a studentwith instruction on human
+32 sexuality, the school must provide the parent of the student or the
+33 student, if the student is an adult or an emancipated minor, with a
+34 written request for consent of instruction. A consent form provided to
+35 a parent of a student or a student under thissubsection must accurately
+36 summarize the contents and nature of the instruction on human
+37 sexuality that will be provided to the student and indicate that a parent
+38 of a student or an adult or emancipated minor student has the right to
+39 review and inspect all materials related to the instruction on human
+40 sexuality. The written consent form may be sent in an electronic
+41 format. The parent of the student or the student, if the student is an
+42 adult or an emancipated minor, may return the consent formindicating
+2022 IN 1040—LS 6399/DI 116
+19
+1 that the parent of the student or the adult or emancipated student:
+2 (1) consents to the instruction; or
+3 (2) declines instruction.
+4 If a student does not participate in the instruction on human sexuality,
+5 the school shall provide the student with alternative academic
+6 instruction during the same time frame that the instruction on human
+7 sexuality is provided.
+8 (d) If the parent of the student or the student, if the student is an
+9 adult or an emancipated minor, does not respond to the written request
+10 provided by the school under subsection (c) within twenty-one (21)
+11 calendar days after receiving the request under subsection (c), the
+12 school shall provide the parent of the student, or the student, if the
+13 student is an adult or an emancipatedminor, a written notice requesting
+14 that the parent of the student, or the student, if the student is an adult
+15 or an emancipated minor, indicate, in a manner prescribed by the
+16 school, whether the parent of the student or the adult or emancipated
+17 student:
+18 (1) consents to the instruction; or
+19 (2) declines instruction.
+20 A notice provided to a parent of a student or a student under this
+21 subsection must accurately summarize the contents and nature of the
+22 instruction on human sexuality that will be provided to the student and
+23 indicate that a parent of a student or an adult or emancipated minor
+24 student has the right to review and inspect all materials related to the
+25 instruction on human sexuality. The notice maybe sent in an electronic
+26 format. If the school does not receive a response within ten (10) days
+27 after the notice, the student will receive the instruction on human
+28 sexuality unless the parent or the adult or emancipated student
+29 subsequently opts out of the instruction for the student.
+30 (c) If a school corporation or qualified school (as defined in
+31 IC 20-22.5-2-7) uses a third party vendor in providing a personal
+32 analysis, evaluation, or survey that reveals or attempts to affect a
+33 student's attitudes, habits, traits, opinions, beliefs, or feelings, the
+34 third party vendor and the school corporation or qualified school
+35 (as defined in IC 20-22.5-2-7) may not collect or maintain the
+36 responses to or results of the analysis, evaluation, or survey in a
+37 manner that would identify the responses or results of an
+38 individual student.
+39 (d) A qualified school (as defined in IC 20-22.5-2-7)shall obtain
+40 prior informed written consent from the parent of a student who
+41 islessthan eighteen (18) years of age and is not emancipated or an
+42 emancipated student before the student may participate in any
+2022 IN 1040—LS 6399/DI 116
+20
+1 instruction on human sexuality, including:
+2 (1) abortion;
+3 (2) birth control or contraceptives;
+4 (3) sexual activity;
+5 (4) sexual orientation;
+6 (5) transgenderism; and
+7 (6) gender identity;
+8 that is conducted in connection with the school corporation, the
+9 qualified school (as defined in IC 20-22.5-2-7), a contractor of the
+10 school corporation or qualified school (as defined in
+11 IC 20-22.5-2-7), or any individual, agency, or entity to which the
+12 student is referred, or that is made available to the student, by the
+13 school corporation or qualified school (as defined in
+14 IC 20-22.5-2-7).
+15 (e) Before obtaining the prior informed written consent of a
+16 parent or emancipated student as described in subsection (d), a
+17 school corporation or qualified school (as defined in
+18 IC 20-22.5-2-7) shall provide the parent or emancipated student
+19 with informed written notice which shall accurately describe in
+20 detail the contents and nature of the instruction on human
+21 sexuality, including:
+22 (1) the purpose of the instruction on human sexuality;
+23 (2) the provider or contractor providing the instruction on
+24 human sexuality; and
+25 (3)the date and time whenthe instructiononhuman sexuality
+26 will take place.
+27 The notice must include a copy of all written materialsthe student
+28 will be provided pertaining to the instruction on human sexuality.
+29 (e) (f) The department and the governing body shall give parents
+30 and students notice of their rights under this section.
+31 (f) (g) The governing body shall enforce this section.
+32 (h) Aqualifiedschool(as defined in IC20-22.5-2-7)that violates
+33 this section is subject to IC 20-22.5-4.
+34 SECTION 10. IC 20-30-17 IS ADDED TO THE INDIANA CODE
+35 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+36 UPON PASSAGE]:
+37 Chapter 17. Learning Material and Educational Activity
+38 Transparency
+39 Sec. 1. (a) As used in this chapter, "educational activity" means
+40 a presentation, assembly, lecture, or any other educational activity
+41 or event that is:
+42 (1) organized or facilitated by a school corporation or
+2022 IN 1040—LS 6399/DI 116
+21
+1 qualified school or an employee of the school corporation or
+2 qualified school; and
+3 (2) conducted during instructional time (as defined in
+4 IC 20-30-2-1).
+5 (b) The term does not include a student presentation.
+6 Sec. 2. As used in this chapter, "educational activity presenter
+7 information" means the following:
+8 (1) The name of a presenter of an educational activity.
+9 (2) The name of the organization, if applicable, that the
+10 presenter of the educational activity represents.
+11 Sec. 3. (a) As used in this chapter, "learning material" means
+12 any material used for student instruction by a school corporation
+13 or qualified school, including the following:
+14 (1) Textbooks and other printed materials.
+15 (2) Audiovisual materials.
+16 (3) Materials in electronic or digital formats, including
+17 materials accessible through the Internet.
+18 (4) All materials to be presented or provided to students in
+19 connection with an educational activity.
+20 (b) The term includes a lesson plan, a syllabus, and any
+21 materials that contain curriculum content.
+22 (c) The term does not include an academic test, quiz, or scoring
+23 keys.
+24 Sec. 4. As used in this chapter, "qualified school" has the
+25 meaning set forth in IC 20-22.5-2-7.
+26 Sec. 5. (a) This section applies to a learning material or
+27 educational activity to which any of the following apply:
+28 (1) The learning material or educational activity is or is
+29 intended to be assigned, distributed, or otherwise presented
+30 to:
+31 (A) a student in a course or class for which the student
+32 receives credit;
+33 (B) a student if use of the learning material or
+34 participation in the educational activity is required by the
+35 school corporation or qualified school; or
+36 (C) a student and at least a majority ofstudentsin a grade
+37 level are expected to use the learning material or
+38 participate in the educational activity.
+39 (2) The learning material is or is intended to be included in a
+40 defined list of learning materialsfrom which the students are
+41 required to select one (1) or more of the learning materials.
+42 (3)The learningmaterial or educational activity is createdby:
+2022 IN 1040—LS 6399/DI 116
+22
+1 (A) the department;
+2 (B)the governing body of a school corporation or qualified
+3 school; or
+4 (C) an employee of a school corporation or qualified
+5 school.
+6 (b) Notlater than June 30, 2022, and notlater than June 30 each
+7 year thereafter, each qualified school shall post on the qualified
+8 school'sInternet web site, in a manner accessible by the public,the
+9 following:
+10 (1) Information concerning any learning material or
+11 educational activity that is or is intended to be used for
+12 student instruction by the qualified school in the immediately
+13 following school year, organized by grade level, teacher, and
+14 subject area. The information posted under this subdivision
+15 must include the following:
+16 (A) The title and author, organization, or Internet web site
+17 associated with each learning material and educational
+18 activity.
+19 (B) The full text or a copy of the learning material or
+20 educational activity. A qualified school is not required to
+21 include the full text or copy of learning material or an
+22 educational activityunder this clause ifthequalifiedschool
+23 provides a linkto an Internet web site that containsthe full
+24 text or a copy of the learning material or educational
+25 activity.
+26 (2)Anyprocedures orpoliciesineffectfor thedocumentation,
+27 review, or approval of learning materials or educational
+28 activities used for student instruction.
+29 (c) Each qualified school shall:
+30 (1) update the information described in subsection (b) at least
+31 one (1) time each semester; and
+32 (2) post a notice on the qualified school's Internet web site
+33 that the information has been updated and the date on which
+34 the information was updated.
+35 (d) This section may not be construed to require a qualified
+36 school to post learning material or information concerning an
+37 educational activity in a manner that would constitute an
+38 infringement of copyright under the federal Copyright Act (17
+39 U.S.C. 101 et seq.).
+40 (e) The department shall:
+41 (1) develop a model plan for presenting the information
+42 described in this section on a qualified school's Internet web
+2022 IN 1040—LS 6399/DI 116
+23
+1 site; and
+2 (2) post the model on the department's Internet web site.
+3 Sec. 6. (a) Upon request of a parent of a student enrolled in a
+4 school corporation or qualified school, the school corporation or
+5 qualified school shall make available, in the manner prescribed in
+6 subsection (b), for inspection to the parent of the student:
+7 (1) learning material for the particular student; and
+8 (2) educational activitypresenter informationfor educational
+9 activity presenters currently scheduled for an educational
+10 activity or who conducted an educational activity within
+11 twelve (12) months preceding the date of the request
+12 submitted under this subsection at the particular school that
+13 the student currently attends.
+14 (b) A school corporation or qualified school shall make the
+15 information described in subsection (a) available for inspection at
+16 the particular schoolthatthe student attendsduringnormalschool
+17 office hours in a manner prescribed by the school corporation or
+18 qualified school within five (5) business days of receipt of the
+19 request.Inaddition,the school corporationorqualifiedschoolmay
+20 make the information available to a parent:
+21 (1) by posting the learning material or educational activity
+22 presenter informationonthe school corporation's orqualified
+23 school's Internet web site;
+24 (2) by providing the information to the parent of the student
+25 by electronic mail; or
+26 (3) by delivering, through regular mail or hand delivery,
+27 photocopies of the learning material or educational activity
+28 presenter information. A school corporation or qualified
+29 school may charge a fee under this subdivision in accordance
+30 with IC 5-14-3-8.
+31 Sec. 7.Every teacher who teaches a class at a school corporation
+32 or qualified school shall provide a student's parent or an
+33 emancipated student a syllabusfor the particular classthe teacher
+34 teaches within five (5) school days of the date that students start
+35 the school year.
+36 Sec. 8. Within forty-five (45) days from the later of:
+37 (1) the first student school day of the school corporation or
+38 qualified school; or
+39 (2) the date a student enrolls in a school corporation or
+40 qualified school;
+41 the school corporation or qualified schoolshall notify, in a manner
+42 prescribed by the school corporation or qualified school, the
+2022 IN 1040—LS 6399/DI 116
+24
+1 student's parent that learning materials and educational activity
+2 presenter information are available for inspection by the parent in
+3 the manner prescribed in section 6 ofthis chapter.The notification
+4 must include a copy of this chapter.
+5 Sec. 9. The state board may adopt rules under IC 4-22-2 to
+6 implement this chapter.
+7 SECTION 11. IC 20-31-4.1-8.5 IS ADDED TO THE INDIANA
+8 CODE AS A NEW SECTION TO READ AS FOLLOWS
+9 [EFFECTIVE UPON PASSAGE]: Sec. 8.5. The state board may
+10 revoke the performance based accreditation of a school
+11 corporation or qualified school (as defined in IC 20-22.5-2-7) after
+12 consideration of a final order issued by the department under
+13 IC 20-22.5-4-3.
+14 SECTION 12. IC 20-31-8-5.5, AS ADDED BY P.L.211-2021,
+15 SECTION23,ISAMENDEDTOREADASFOLLOWS[EFFECTIVE
+16 UPON PASSAGE]: Sec. 5.5. (a) Not later than July 1, 2024, the state
+17 board shall do the following:
+18 (1) Establish a compilation oflongitudinal data indicating school
+19 performance successin variousselected and enumerated program
+20 areas.
+21 (2) Present the data described in subdivision (1) for each school
+22 in a manner that:
+23 (A) can be convenientlyand easily accessed froma single web
+24 page on the state board's Internet web site; and
+25 (B) is commonly known as an Internet dashboard.
+26 (b) The dashboard must include the following:
+27 (1) Indicators of student performance in elementary school,
+28 including schools for grades 6 through 8, and high school.
+29 (2) The school's graduation rate, as applicable.
+30 (3) The percentage of high school graduates who earned college
+31 credit before graduating, as applicable.
+32 (4) The pass rate of the statewide assessment program tests (as
+33 defined in IC 20-32-2-2.3), as applicable.
+34 (5) The growth data ofthe statewide assessment programtests(as
+35 defined in IC 20-32-2-2.3), as applicable.
+36 (6) The attendance rate.
+37 (7) State, national, and international comparisons for the
+38 indicators, if applicable.
+39 (8) Information described in IC 20-20-8-8(a)(23) which shall
+40 be updated at least every thirty (30) days.
+41 (c) The dashboard may include any other data indicating school
+42 performance success that the state board determines is relevant.
+2022 IN 1040—LS 6399/DI 116
+25
+1 (d) Each schoolshall post on a web page maintained on the school's
+2 Internet web site the exactsame data and in a similar format asthe data
+3 presented for the school on the state board's Internet web site.
+4 However, the school may include custom indicators on the web page
+5 described in this subsection.
+6 SECTION 13. IC 20-33-13 IS ADDED TO THE INDIANA CODE
+7 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+8 UPON PASSAGE]:
+9 Chapter 13. Protection of Students and Privacy Rights of
+10 Students and Families
+11 Sec. 1. (a) Except as provided in subsection (b), as used in this
+12 chapter, "medical inspection" means a medical inspection
+13 conducted under IC 20-34-3-4.
+14 (b) The term does not include:
+15 (1) a medical inspectionofthe studentunder IC20-34-3-4 that
+16 is conducted in response to an emergency situation in which
+17 time is of the essence and the student's parent is promptly
+18 notified of the situation;
+19 (2) an inspection conducted by a school nurse or other school
+20 employee under IC 20-34-3-9;
+21 (3) sickle cell anemia testing conducted under IC 20-34-3-10;
+22 (4) lead poisoning testing conducted under IC 20-34-3-11;
+23 (5) annual vision testing conducted under IC 20-34-3-12; or
+24 (6) audiometer testing conducted under IC 20-34-3-14.
+25 Sec. 2. As used in this chapter, "medical treatment" means any
+26 medical assessment,medicaltreatment,medicalservice,ormedical
+27 referral, including:
+28 (1) any counseling of a student about:
+29 (A) abortion; or
+30 (B) gender transitioning issues, including:
+31 (i) pronoun selection;
+32 (ii) hormone blockers; or
+33 (iii) gender reassignment surgery; or
+34 (2) referrals of a student to an individual, facility, or
+35 organization that:
+36 (A)supports or counselsinfavor of or performs abortions;
+37 (B) supports or counsels in favor of attempted gender
+38 transitioning from one (1)sex to another sex including the
+39 use of hormone blockers or gender reassignment surgery;
+40 or
+41 (C) provides hormone blockers or gender reassignment
+42 surgery.
+2022 IN 1040—LS 6399/DI 116
+26
+1 Sec. 3. As used in this chapter, "mental health assessment"
+2 means providing the following in a written, digital, or electronic
+3 format:
+4 (1) A behavioral evaluation or survey.
+5 (2) A personality examination or analysis.
+6 (3) A mental health screening or survey.
+7 (4) Any assessment regarding interest inventoriesthat would
+8 collect or elicit information about attitudes, habits, traits,
+9 opinions, beliefs, feelings, or dispositions, including:
+10 (A) multitiered systems of support;
+11 (B) positive behavior intervention and supports;
+12 (C) response to intervention; and
+13 (D) universal design for learning designed to affect
+14 behavioral, emotional, or attitudinal characteristics of an
+15 individual or group.
+16 (5) A social emotional screening, survey, assessment, or
+17 evaluation.
+18 (6) A social emotional wellnessscreening,survey, assessment,
+19 or evaluation.
+20 Sec. 4. As used in this chapter, "mental health service" means
+21 any social, emotional, or behavioral interventions, including:
+22 (1) multitiered systems of support;
+23 (2) positive behavior interventions and support;
+24 (3) response to intervention; or
+25 (4)universaldesignfor learningdesignedto affectbehavioral,
+26 emotional, or attitudinal characteristics of an individual or
+27 group;
+28 that are provided to a student at any time including as a result of
+29 a mental health assessment of the student.
+30 Sec. 5. As used in this chapter, "qualified school" has the
+31 meaning set forth in IC 20-22.5-2-7.
+32 Sec. 6. As used in this chapter, "psychiatric or psychological
+33 examination or test" means a method of obtaining information,
+34 including a group activity, that is:
+35 (1)providedto a student at any time including anexamination
+36 or test provided as a result of a mental health assessment of
+37 the student; and
+38 (2) designed to elicit information about attitudes, habits,
+39 traits, opinions, beliefs, feelings, or dispositions.
+40 Sec. 7. As used in this chapter, "psychiatric or psychological
+41 treatment"means anactivity involvingtheplanned,systematicuse
+42 of methods or techniques that are:
+2022 IN 1040—LS 6399/DI 116
+27
+1 (1) provided to a student at any time including as a result of
+2 a mental health assessment of the student; and
+3 (2) designed to affect behavioral, emotional, or attitudinal
+4 characteristics of an individual or group.
+5 Sec. 8. As used in this chapter, "student education record"
+6 means a record maintained by a school corporation or qualified
+7 school in a digital, paper, or other format that contains
+8 information directly related to a student that includes, but is not
+9 limited to:
+10 (1) personally identifiable information;
+11 (2) medical or mental health information regarding the
+12 student;
+13 (3) academic information;
+14 (4) career profile information;
+15 (5) personality information;
+16 (6) any disciplinary action information; and
+17 (7) any other information gathered on the student.
+18 Sec. 9. (a) A school corporation or qualified school shall obtain
+19 prior informed written consent from the parent of a student who
+20 is less than eighteen (18) years of age and is not emancipated
+21 before:
+22 (1) the school corporation or qualified school may share a
+23 student's education record with a third party;
+24 (2) the school corporation or qualified school provides access
+25 to a student by a third party; or
+26 (3) a student may participate in any medical inspection,
+27 medical treatment, mental health assessment, mental health
+28 services, psychiatric or psychological examination or test, or
+29 psychiatric or psychological treatment that is conducted in
+30 connection with the school corporation, the qualified school,
+31 a contractor of the school corporation or qualified school, or
+32 any individual, agency, or entity that the student is referred
+33 to or made available by the school corporation or qualified
+34 school.
+35 (b) Before obtaining the prior informed written consent from a
+36 parent as described in subsection (a), a school corporation or
+37 qualified school shall provide the parent informed written notice
+38 describing in detail the medical inspection, medical treatment,
+39 mental health assessment, mental health services, psychiatric or
+40 psychological examination or test, or psychiatric or psychological
+41 treatment, including:
+42 (1) the purpose for the assessment, examination, test,
+2022 IN 1040—LS 6399/DI 116
+28
+1 treatment, or services;
+2 (2) the provider or contractor providing the assessment,
+3 examination, test, treatment, or services; and
+4 (3) the date and time at which the assessment, examination,
+5 test, treatment, or services will take place.
+6 Sec. 10. (a) For purposes of this section, a student is considered
+7 a student subject to a violation of this section if:
+8 (1) a school corporation or qualified school:
+9 (A) discloses a student education record or any
+10 information in a student education record, including
+11 providing access to a student's education record to a third
+12 party;
+13 (B) provided access to a student by a third party without
+14 the informed written consent of the student's parent in
+15 violation of this chapter; or
+16 (C) has the student participate in any medical inspection,
+17 medical treatment, mental health assessment, mental
+18 health services, psychiatric or psychological examination
+19 or test, or psychiatric or psychological treatment that is
+20 conducted in connection with the school corporation, the
+21 qualified school, a contractor of a school corporation or
+22 qualified school, or any individual, agency, or entity that
+23 the student is referred to or made available to the student
+24 by a school corporation or qualified school without the
+25 informed written consent of the student's parent in
+26 violation of this chapter;
+27 (2) a school corporation or qualified school violates
+28 IC 20-30-5-17 regarding the student; or
+29 (3) a school corporation or qualified school violates
+30 IC 20-34-3-21 regarding the student.
+31 (b)Thissubsectionappliesto a school corporationor a qualified
+32 school. A protected right petitioner (as defined in IC 20-22.5-2-5)
+33 may submit a complaintforminaccordancewithIC20-22.5-4with
+34 the school corporation or qualified school.
+35 (c) Upon receipt of findings by a school corporation or qualified
+36 school under IC 20-22.5-4-3 or the department'sfinal order under
+37 IC20-22.5-4,the attorney generalshall review the findings or final
+38 order in accordance with IC 20-22.5-4-4. If the attorney general
+39 determines that:
+40 (1) a school corporation or qualified school:
+41 (A) has disclosed a student education record or any
+42 information in a student education record, including
+2022 IN 1040—LS 6399/DI 116
+29
+1 providing accessto a student's education record to a third
+2 party;
+3 (B) provided access to a student by a third party without
+4 the informed written consent of the student's parent in
+5 violation of this chapter; or
+6 (C) had a student participate in any medical inspection,
+7 medical treatment, mental health assessment, mental
+8 health services, psychiatric or psychological examination
+9 or test, or psychiatric or psychological treatment that is
+10 conducted in connection with the school corporation, the
+11 qualified school, a contractor of a school corporation or
+12 qualified school, or any individual, agency, or entity that
+13 the student is referred to by the school corporation or
+14 qualified school without the informed written consent of
+15 the student's parent or emancipated studentin violation of
+16 this chapter;
+17 (2) a school corporation, or qualified school violates
+18 IC 20-30-5-17; or
+19 (3) a school corporation or qualified school violates
+20 IC 20-34-3-21;
+21 the attorney general may assess a civil penalty against the school
+22 corporation, charter school, or laboratory school establishedunder
+23 IC 20-24.5-2 in an amount determined under IC 20-22.5-4-4(c).
+24 Sec. 11. (a) A parent of a student or emancipated student may
+25 bring a civil action against a school corporationor qualified school
+26 if the student is the subject of a protected right violation (as
+27 defined by IC 20-22.5-2-6) by the school corporation or qualified
+28 school as described in section 9(a) of this chapter.
+29 (b) A court may award the following to an individual who
+30 prevails under subsection (a):
+31 (1) Court costs and reasonable attorney's fees.
+32 (2) The greater of:
+33 (A) actual damages resulting from the violation; or
+34 (B) liquidated damages in an amount of five thousand
+35 dollars ($5,000).
+36 SECTION 14. IC 20-34-3-4, AS ADDED BY P.L.1-2005,
+37 SECTION18,ISAMENDEDTOREADASFOLLOWS[EFFECTIVE
+38 UPON PASSAGE]: Sec. 4. Subject to IC 20-33-13, the governing
+39 bodyof a school corporation mayprovide forthe inspection ofstudents
+40 by a school physician to determine whether any child suffers from
+41 disease, disability, decayed teeth, or other defects that may reduce the
+42 student's efficiency or prevent the student from receiving the full
+2022 IN 1040—LS 6399/DI 116
+30
+1 benefit of the student's school work.
+2 SECTION 15. IC 20-34-3-21, AS AMENDED BY P.L.69-2020,
+3 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+4 UPON PASSAGE]: Sec. 21. (a) Each school corporation and charter
+5 school shall enter into a memorandum of understanding with a
+6 community mental health center established under IC 12-29-2 or a
+7 provider certified or licensed by the state to provide appropriate and
+8 necessarymental or behavioral health servicestostudents.The division
+9 of mental health and addiction shall develop a memorandum of
+10 understanding for referral and assist school corporations and charter
+11 schools in obtaining a memorandum of understanding with a
+12 community mental health center or an appropriate provider.
+13 (b) A school corporation and a charter school may not refer a
+14 student to a mental health care provider or a community mental health
+15 center for services unless the school corporation or charter school has
+16 received the written consent of the student's parent or guardian.
+17 (c) If a school corporation or charter school refers a student to a
+18 mental health care provider, the school corporation or charter school
+19 may note the referral in the student's cumulative record but may not
+20 include any possible diagnosis or information concerning the student's
+21 mental health other than any medication that the student takes for the
+22 student's mental health. A student record that contains medical
+23 information must be kept confidential.
+24 (d) A school counselor or other employee of a school corporation or
+25 a charter school may not diagnose a student as having a mental health
+26 condition unlessthe individual'sscope of practice includes diagnosing
+27 a mental health condition.
+28 (e) Before providing a referral under a memorandum of
+29 understanding, eachschool corporation and charterschoolshall comply
+30 with the following requirements:
+31 (1) Develop a process for a teacher or school employee to notify
+32 a school official to contact a student's parent if the student
+33 demonstrates a repeated pattern of aberrant or abnormal behavior.
+34 The parental notification process described in this subdivision
+35 must also include that the school will hold a conference with the
+36 student and the student's parent.
+37 (2) Require that the conference described in subdivision (1) must
+38 address the student's potential need for and benefit from:
+39 (A) mental or behavioral health services; or
+40 (B) mental or behavioral health services provided by the
+41 community mental health center or appropriate provider that
+42 is contracted and paid for by the school corporation or charter
+2022 IN 1040—LS 6399/DI 116
+31
+1 school.
+2 (3) Establish a procedure for a parent who chooses to seek
+3 services for the student to follow that includes granting written
+4 parental consent for the student to receive mental or behavioral
+5 health services by a community mental health center or
+6 appropriate provider described under subdivision (2).
+7 (4) Ensure that a school maintains the confidentiality of any
+8 medical records that result from a student's participation in any
+9 treatment described in subdivision (2). The school must adopt a
+10 policy that prohibits the school from:
+11 (A) sharing any reports or notes resulting from the provision
+12 of mental or behavioral health services described in
+13 subdivision (2)(A) with other school officials; and
+14 (B)maintaining anyreports, notes, diagnosis, or appointments
+15 that result from a student's participation in any treatment
+16 described in subdivision (2)(A) through (2)(B) in the student's
+17 permanent educational file.
+18 (f) A school corporation or charter school that violates this
+19 section is subject to IC 20-22.5-4.
+20 SECTION 16. IC 20-34-4-2, AS AMENDED BY P.L.208-2015,
+21 SECTION12,ISAMENDEDTOREADASFOLLOWS[EFFECTIVE
+22 JANUARY 1, 2021 (RETROACTIVE)]: Sec. 2. (a) Every child
+23 residing in Indiana who is enrolled in an accredited elementary school
+24 or high school shall be immunized as determined by the state
+25 department of health against:
+26 (1) diphtheria;
+27 (2) pertussis (whooping cough);
+28 (3) tetanus;
+29 (4) measles;
+30 (5) rubella;
+31 (6) poliomyelitis;
+32 (7) mumps;
+33 (8) varicella;
+34 (9) hepatitis A;
+35 (10) hepatitis B; and
+36 (11) meningitis.
+37 (b) Before January 1, 2021, the state department of health may
+38 expand or otherwise modify the list of communicable diseases that
+39 require documentation of immunity as medical information becomes
+40 available that would warrant the expansion or modification in the
+41 interest of public health.
+42 (c) After December 31, 2020, the list of communicable diseases
+2022 IN 1040—LS 6399/DI 116
+32
+1 that require documentation of immunity may be expanded or
+2 modified only by an act of the general assembly.
+3 (c) (d) Before November 30 of each year, the state department of
+4 health shall publish a two (2) year calendar of immunization
+5 requirements and recommendations. The calendar must include:
+6 (1) the immunization requirementsfor the following school year;
+7 and
+8 (2) recommendationsfor immunization requirementsfor the year
+9 subsequent to the following school year.
+10 (d) (e) The publishing time frame for the calendar described in
+11 subsection (c) (d) does not apply in the event of an emergency as
+12 determined by the state health commissioner.
+13 (e) (f) The state department of health shall adopt rules under
+14 IC 4-22-2 specifying the:
+15 (1) required immunizations;
+16 (2) child's age for administering each vaccine;
+17 (3) adequately immunizing doses; and
+18 (4) method of documentation of proof of immunity.
+19 SECTION 17. IC 34-30-28-1, AS ADDED BY P.L.41-2014,
+20 SECTION 9,IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 UPONPASSAGE]: Sec. 1.Aschool,school employee, orschool board
+22 is not liable for civil damages as a result of:
+23 (1) an injury to a child or familymembers ofthe child ifthe injury
+24 is a result of a student's mental health issue that has not been
+25 disclosed to the school by the parents or guardian; or
+26 (2) any referrals the school made or services the school offered
+27 concerning evaluations or treatment of the student's health,
+28 including mental health.
+29 However, a school,school employee, or schoolboardisnotimmune
+30 fromcivil liability under thissection ifthe school,school employee,
+31 or school board committed a violation described in IC 20-30-5-17,
+32 IC 20-33-13, or IC 20-34-3-21 in making a medical inspection,
+33 medical treatment, mental health assessment, mental health
+34 services, psychiatric or psychological examination or test, or
+35 psychiatric or psychological treatment.
+36 SECTION 18. An emergency is declared for this act.
+2022 IN 1040—LS 6399/DI 116

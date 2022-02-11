@@ -1,0 +1,1886 @@
+22
+
+LC 49 0646
+
+House Bill 888
+By: Representatives Thomas of the 21st, Jasperse of the 11th, Wade of the 9th, Carson of the
+46th, Powell of the 32nd, and others
+
+A BILL TO BE ENTITLED
+AN ACT
+
+1
+
+To amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to
+
+2
+
+add new statutes and amend various existing statutes to include provisions regarding the
+
+3
+
+treatment of race and other individual traits and beliefs in public education in this state; to
+
+4
+
+prohibit state agencies, local boards of education, or public elementary or secondary school
+
+5
+
+administrators, teachers, or other personnel from compelling any individual to affirm, adopt,
+
+6
+
+adhere to, profess, or promote concepts in violation of certain federal and state
+
+7
+
+anti-discrimination laws; to prohibit the inclusion of certain concepts in courses offered in
+
+8
+
+public elementary and secondary schools of this state; to provide for the promotion and
+
+9
+
+protection of the intellectual freedom of students, faculty, and other personnel at public
+
+10
+
+postsecondary educational institutions in this state; to provide for a complaint resolution
+
+11
+
+policy and process; to provide for legislative findings and intent; to provide for definitions;
+
+12
+
+to provide for penalties; to provide for remedies; to provide for statutory construction; to
+
+13
+
+provide for conforming changes; to provide for related matters; to repeal conflicting laws;
+
+14
+
+and for other purposes.
+
+15
+
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+
+H. B. 888
+-1-
+
+22
+
+16
+17
+
+LC 49 0646
+SECTION 1.
+
+(a) The General Assembly recognizes:
+
+18
+
+(1) The First Amendment of the United States Constitution and Article I, Section I,
+
+19
+
+Paragraph V of the Georgia Constitution protect freedom of speech by prohibiting laws
+
+20
+
+abridging, curtailing, or restraining free speech;
+
+21
+
+(2) The Fourteenth Amendment of the United States Constitution and Article I, Section I,
+
+22
+
+Paragraph II of the Georgia Constitution provide that no person shall be denied the equal
+
+23
+
+protection of the laws; and
+
+24
+
+(3) No provision in the United States Constitution or the Georgia Constitution enables
+
+25
+
+either the United States government or the government of this state to compel persons to
+
+26
+
+affirm, adopt, adhere to, profess, or promote specific beliefs.
+
+27
+
+(b) The General Assembly finds:
+
+28
+
+(1) Slavery, racial discrimination under the law, and racism in general are so inconsistent
+
+29
+
+with the founding principles of the United States that Americans fought a civil war to
+
+30
+
+eliminate the first, waged long-standing political campaigns to eradicate the second, and
+
+31
+
+rendered the third unacceptable in the court of public opinion, all of which dispels the idea
+
+32
+
+that the United States and its institutions are systemically racist and confutes the notion that
+
+33
+
+slavery, racial discrimination under the law, and racism should be at the center of public
+
+34
+
+elementary, secondary, and postsecondary educational institutions;
+
+35
+
+(2) Democratic societies built on the ideals of individual freedom and the self-driven
+
+36
+
+pursuit of prosperity with a dedication to equal opportunity for all will thrive in perpetuity,
+
+37
+
+while societies built on the false promises of equity and equal outcomes for all have
+
+38
+
+consistently ended in failed states; and
+
+39
+
+(3) Americans should be allowed, in the words of civil rights activist Robert Woodson, "an
+
+40
+
+aspirational and inspirational take on America's history, debunking the misguided argument
+
+41
+
+that the present-day problems of black Americans are caused by the injustices of past
+
+42
+
+failures, such as slavery."
+
+H. B. 888
+-2-
+
+22
+
+43
+
+LC 49 0646
+
+(c) It is the intent of the General Assembly:
+
+44
+
+(1) That the State Board of Education, the Department of Education, the State Charter
+
+45
+
+Schools Commission, local boards of education, and administrators, teachers, and other
+
+46
+
+personnel of the public elementary and secondary schools of this state maintain policies in
+
+47
+
+accordance with Title IV and Title VI of the Civil Rights Act of 1964, Title IX of the
+
+48
+
+federal Education Amendments of 1972, Code Section 20-2-131, and Code
+
+49
+
+Section 20-2-315; and
+
+50
+
+(2) To promote and protect the intellectual freedom of students, faculty, and other
+
+51
+
+personnel at postsecondary educational institutions of this state which receive in any
+
+52
+
+manner funds from the state.
+
+53
+
+SECTION 2.
+
+54
+
+Title 20 of the Official Code of Georgia Annotated, relating to education, is amended in
+
+55
+
+Article 1 of Chapter 1, relating to general provisions regarding education, by adding two new
+
+56
+
+Code sections to read as follows:
+
+57
+
+"20-1-11.
+
+58
+
+(a) As used in this Code section, the term:
+
+59
+
+(1) 'Primary instructional material' shall include instructional materials and content, as
+
+60
+
+defined by the State Board of Education pursuant to Code Section 20-2-1010, and locally
+
+61
+
+approved instructional materials and content, as defined in subsection (a) of
+
+62
+
+Code Section 20-2-1017.
+
+63
+
+(2) 'Supplementary or ancillary material' means material that is not primary instructional
+
+64
+
+material and is included, or intended to be included, by a teacher for use as part of
+
+65
+
+classroom discussion or other classroom activity or is recommended by a teacher for
+
+66
+
+review by one or more students. Supplementary or ancillary material includes, but is not
+
+67
+
+limited to, articles, online simulations, worksheets, novels, biographies, speeches, videos,
+
+68
+
+music, and similar resources in any medium, including both physical and digital.
+
+H. B. 888
+-3-
+
+22
+
+LC 49 0646
+
+69
+
+(b) No state agency, local board of education, or public elementary or secondary school
+
+70
+
+administrator, teacher, or other personnel shall compel any individual to affirm, adopt,
+
+71
+
+adhere to, profess, or promote concepts in violation of Title IV and Title VI of the federal
+
+72
+
+Civil Rights Act of 1964, Title IX of the federal Education Amendments of 1972, Code
+
+73
+
+Section 20-2-131, and Code Section 20-2-315, including, but not limited to, the following:
+
+74
+
+(1) That individuals of any race, ethnicity, religion, color, or national origin are
+
+75
+
+inherently superior or inferior;
+
+76
+
+(2) That individuals should be adversely or advantageously treated on the basis of their
+
+77
+
+race, ethnicity, religion, color, or national origin;
+
+78
+
+(3) That individuals, by virtue of their race, ethnicity, religion, color, or national origin
+
+79
+
+bear collective guilt and are inherently responsible for actions committed in the past by
+
+80
+
+other members of the same race, ethnicity, religion, color, or national origin;
+
+81
+
+(4) That governing systems or programs which were designed to identify, select, or
+
+82
+
+promote participants on the basis of merit or work ethic are discriminatory or were
+
+83
+
+created by members of a particular race, ethnicity, religion, color, or national origin to
+
+84
+
+oppress members of another race, ethnicity, religion, color, or national origin;
+
+85
+
+(5) That any individual should feel discomfort, guilt, anguish, or any other form of
+
+86
+
+psychological distress on account of the individual's race, ethnicity, religion, color, or
+
+87
+
+national origin;
+
+88
+
+(6) That an individual's moral character is necessarily determined by the individual's
+
+89
+
+race, ethnicity, religion, color, or national origin; and
+
+90
+
+(7) That the United States is a systemically racist country.
+
+91
+
+(c) No state agency, local board of education, or public elementary or secondary school
+
+92
+
+shall include, promote, or allow school administrators, teachers, or other school personnel
+
+93
+
+to use any content standards, course, curriculum, or instructional plan, practice, program,
+
+94
+
+or material that compels students to affirm, adopt, adhere to, profess, or promote any of the
+
+95
+
+concepts provided for in paragraphs (1) through (7) of subsection (b) of this Code section.
+
+H. B. 888
+-4-
+
+22
+
+LC 49 0646
+
+96
+
+(d) No state agency, local board of education, or public elementary or secondary school
+
+97
+
+shall require or facilitate professional development or training programs for school
+
+98
+
+administrators, teachers, or other personnel which compel such individuals to affirm, adopt,
+
+99
+
+adhere to, profess, or promote any of the concepts provided for in paragraphs (1)
+
+100
+
+through (7) of subsection (b) of this Code section.
+
+101
+
+(e) No public elementary or secondary school administrator, teacher, or other personnel
+
+102
+
+shall compel or attempt to compel any individual to engage in or observe a discussion of
+
+103
+
+any public policy issue.
+
+104
+
+(f)(1) No state agency, local board of education, or public elementary or secondary
+
+105
+
+school shall require the following of any student in order for such student to receive
+
+106
+
+course credit or to successfully complete a course assignment:
+
+107
+
+(A) Participation or association with the activities of any organization engaged in
+
+108
+
+lobbying efforts relating to federal, state, or local legislation;
+
+109
+
+(B) Participation or association with the activities of any organization engaged in social
+
+110
+
+or public policy advocacy;
+
+111
+
+(C) Participation or association with any activity that involves lobbying efforts relating
+
+112
+
+to federal, state, or local legislation; and
+
+113
+
+(D) Participation or association with any partisan activity relating to social or public
+
+114
+
+policy advocacy.
+
+115
+
+(2) Nothing in this subsection shall be construed to prohibit individuals from observing
+
+116
+
+or participating in lawful government processes or volunteering support for the lawful
+
+117
+
+operations of federal, state, or local government agencies and organizations, including
+
+118
+
+agencies and organizations of a legislative branch, judicial branch, or executive branch
+
+119
+
+of a government entity.
+
+120
+
+(g) No state agency, local board of education, or public elementary or secondary school
+
+121
+
+shall use public funds to contract with, hire, or otherwise engage speakers, consultants,
+
+122
+
+trainers, and other persons:
+
+H. B. 888
+-5-
+
+22
+
+LC 49 0646
+
+123
+
+(1) To communicate with students, school administrators, teachers, or other personnel
+
+124
+
+for the purpose of professing or promoting any of the concepts provided for in
+
+125
+
+paragraphs (1) through (7) of subsection (b) of this Code section; or
+
+126
+
+(2) To communicate with students, school administrators, teachers, or other personnel
+
+127
+
+for the purpose of compelling or encouraging them to affirm, adopt, adhere to, profess,
+
+128
+
+or promote any of the concepts provided for in paragraphs (1) through (7) of
+
+129
+
+subsection (b) of this Code section.
+
+130
+
+(h)(1) Beginning with the 2022-2023 school year, each public elementary and secondary
+
+131
+
+school shall include and maintain on the homepage of its website a link that provides a
+
+132
+
+detailed list of primary instructional materials used in all courses available at the school,
+
+133
+
+including, but not limited to, the title, author, creator, and publisher of any book,
+
+134
+
+periodical, treatise, article, recording, software, webpage, or paper.
+
+135
+
+(2) Each public elementary and secondary school shall review primary instructional
+
+136
+
+materials of each course and update the online list of primary instructional materials on
+
+137
+
+a semi-annual basis or more frequently as determined necessary by the local school
+
+138
+
+system or school administration; provided, however, that before a new course may be
+
+139
+
+made available to students, the online list of primary instructional materials shall be
+
+140
+
+updated to include the primary instructional materials for the new course.
+
+141
+
+(3) Each public elementary and secondary school shall make all primary instructional
+
+142
+
+materials and supplementary or ancillary materials used or proposed for use by such
+
+143
+
+school available for review on site upon request by any parent or guardian of a student
+
+144
+
+who is or will be enrolled in such school or to a student who has reached the age of
+
+145
+
+majority or is a lawfully emancipated minor and who is enrolled at such school. Each
+
+146
+
+public elementary and secondary school may specify reasonable hours for such review;
+
+147
+
+provided, however, that upon a timely request, such review must be accommodated by
+
+148
+
+the school no less than 24 hours prior to the use of the primary instructional materials or
+
+149
+
+supplementary or ancillary materials.
+
+H. B. 888
+-6-
+
+22
+
+LC 49 0646
+
+150
+
+(i)(1) No later than August 1, 2022, each local board of education shall adopt a complaint
+
+151
+
+resolution policy for its local school system to address complaints alleging violations of
+
+152
+
+any provision of subsections (b) through (h) of this Code section at a school in such
+
+153
+
+school system. The complaint resolution policy shall provide that:
+
+154
+
+(A) A school or local school system shall not be required to respond to a complaint
+
+155
+
+made pursuant to this subsection unless it is made by:
+
+156
+
+(i) The parent of a student enrolled at the school where the alleged violation
+
+157
+
+occurred;
+
+158
+
+(ii) A student who has reached the age of majority or is a lawfully emancipated minor
+
+159
+
+and who is enrolled at the school where the alleged violation occurred;
+
+160
+
+(iii) An individual employed as a school administrator, teacher, or other school
+
+161
+
+personnel at the school where the alleged violation occurred;
+
+162
+
+(iv) The district attorney for the county where the alleged violation occurred; or
+
+163
+
+(v) The Attorney General;
+
+164
+
+(B) The complaint shall first be submitted in writing to the principal of the school
+
+165
+
+where the alleged violation occurred;
+
+166
+
+(C) The complaint shall provide a reasonably detailed description of the alleged
+
+167
+
+violation;
+
+168
+
+(D) Within three school days of receiving such written complaint, the school principal
+
+169
+
+or his or her designee shall review the complaint and take reasonable steps to
+
+170
+
+investigate the allegations in the complaint;
+
+171
+
+(E) The school principal shall determine whether the alleged violation occurred, in
+
+172
+
+whole or in part;
+
+173
+
+(F) Within five school days of receiving the complaint, unless another schedule is
+
+174
+
+mutually agreed to by the complainant and the school principal, the school principal
+
+175
+
+shall confer with the complainant and inform the complainant whether a violation
+
+176
+
+occurred, in whole or in part, and, if such a violation was found to have occurred, what
+
+H. B. 888
+-7-
+
+22
+
+LC 49 0646
+
+177
+
+remedial steps will be taken; provided, however, that the confidentiality of student or
+
+178
+
+personnel information will not be violated;
+
+179
+
+(G) The school principal's determinations provided for in subparagraphs (E) and (F)
+
+180
+
+of this paragraph shall be subject to timely administrative review by the local school
+
+181
+
+superintendent or his or her designee upon a written request by the complainant to the
+
+182
+
+local school superintendent; and
+
+183
+
+(H) The local school superintendent's decision following the administrative review
+
+184
+
+provided for in subparagraph (G) of this paragraph shall be subject to review by the
+
+185
+
+local board of education pursuant to Code Section 20-2-1160.
+
+186
+
+(2) No later than July 1, 2022, the Department of Education shall promulgate a model
+
+187
+
+policy for a complaint resolution process that meets the requirements of paragraph (1) of
+
+188
+
+this subsection. The Department of Education shall develop guidance for local school
+
+189
+
+systems for use when determining whether violations of subsections (b) through (h) of
+
+190
+
+this Code section have occurred. The Department of Education shall be authorized to
+
+191
+
+revise such model policy and guidance from time to time and shall post such policy and
+
+192
+
+guidance on its website in order to assist local school systems.
+
+193
+
+(j)(1) Following a decision by a local board of education regarding a complaint made
+
+194
+
+pursuant to subsection (i) of this Code section, any party aggrieved by the decision of the
+
+195
+
+local board of education shall have the right to appeal such decision to the State Board
+
+196
+
+of Education pursuant to subsection (b) of Code Section 20-2-1160; and any party
+
+197
+
+aggrieved by the decision of the State Board of Education may appeal such decision to
+
+198
+
+the superior court of the county wherein the local board of education is located pursuant
+
+199
+
+to subsection (c) of Code Section 20-2-1160.
+
+200
+
+(2) In any action brought before a superior court pursuant to this subsection, the court
+
+201
+
+may award court costs and reasonable attorney's fees to the prevailing party.
+
+202
+
+(3) Nothing in this subsection shall be construed to prohibit, restrict, or limit in any
+
+203
+
+manner any cause of action or administrative procedure otherwise provided for by law
+
+H. B. 888
+-8-
+
+22
+
+LC 49 0646
+
+204
+
+and available to any individual, including, but not limited to, any public elementary or
+
+205
+
+secondary school student, administrator, teacher, or other personnel.
+
+206
+
+(k)(1) Beginning September 30, 2023, and by September 30 each year thereafter, the
+
+207
+
+State School Superintendent shall provide a report to the State Board of Education
+
+208
+
+identifying each local school system and each public elementary or secondary school in
+
+209
+
+which a violation of any of the provisions of subsections (b) through (h) of this Code
+
+210
+
+section has been found to have occurred by the State Board of Education or a court of
+
+211
+
+competent jurisdiction as provided in subsection (j) of this Code section, whereupon:
+
+212
+
+(A) The State Board of Education shall withhold 20 percent of the state contributed
+
+213
+
+Quality Basic Education Program funds allotted to the local school system or public
+
+214
+
+elementary or secondary school in accordance with the provisions of Code
+
+215
+
+Section 20-2-243; and
+
+216
+
+(B) The Department of Education shall develop a corrective action plan for the local
+
+217
+
+school system or public elementary or secondary school to remediate each violation
+
+218
+
+found to have occurred by the State Board of Education or a court of competent
+
+219
+
+jurisdiction as provided in subsection (j) of this Code section.
+
+220
+
+(2) A local school system or public elementary or secondary school whose allotment of
+
+221
+
+state contributed Quality Basic Education Program funds has been withheld as provided
+
+222
+
+for in subparagraph (A) of paragraph (1) of this subsection shall have such allotment fully
+
+223
+
+restored within 45 days of demonstrating to the satisfaction of the State Board of
+
+224
+
+Education substantial compliance with the corrective action plan provided for in
+
+225
+
+subparagraph (B) of paragraph (1) of this subsection.
+
+226
+
+(3) Beginning November 1, 2023, and by November 1 each year thereafter, the State
+
+227
+
+School Superintendent shall submit a report to the House Education Committee and the
+
+228
+
+Senate Committee on Education and Youth that includes the following:
+
+229
+
+(A) A list of each local school system and public elementary or secondary school in
+
+230
+
+which a violation of any of the provisions of subsections (b) through (h) of this Code
+
+H. B. 888
+-9-
+
+22
+
+LC 49 0646
+
+231
+
+section has been found to have occurred by the State Board of Education or a court of
+
+232
+
+competent jurisdiction as provided in subsection (j) of this Code section during the
+
+233
+
+immediately preceding school year; and
+
+234
+
+(B) A list of each local school system and public elementary or secondary school
+
+235
+
+whose allotment of state contributed Quality Basic Education Program funds was
+
+236
+
+withheld for any period of time during the immediately preceding school year,
+
+237
+
+including the amount withheld and the length of time such funds were withheld.
+
+238
+
+(l)(1) Nothing in this Code section shall be construed to prohibit any state agency, local
+
+239
+
+board of education, or public elementary or secondary school from including or allowing
+
+240
+
+school administrators, teachers, or other personnel to use, as part of any content standard,
+
+241
+
+course, curriculum, or instructional program, instructional materials that include the
+
+242
+
+following:
+
+243
+
+(A) The impartial and politically nonpartisan presentation of the research-based history
+
+244
+
+of a particular race or ethnic group, as described in textbooks and instructional
+
+245
+
+materials adopted in accordance with state law and local policies;
+
+246
+
+(B) The impartial and politically nonpartisan discussion of controversial aspects of
+
+247
+
+history; and
+
+248
+
+(C) The impartial and politically nonpartisan instruction on the historical treatment of
+
+249
+
+a particular group of people based on race, ethnicity, class, nationality, religion, or
+
+250
+
+geographic region.
+
+251
+
+(2) Nothing in this Code section shall be construed to prohibit any individual employed
+
+252
+
+by a state agency, a local board of education, or a public elementary or secondary school,
+
+253
+
+when acting in his or her individual capacity and not within the scope of his her
+
+254
+
+employment, from discussing the concepts provided for in paragraphs (1) through (7) of
+
+255
+
+subsection (b) of this Code section.
+
+256
+
+(3) Except as provided in subsections (b) through (e) of this Code section, nothing in this
+
+257
+
+Code section shall be construed to prohibit students, school administrators, teachers, or
+
+H. B. 888
+- 10 -
+
+22
+
+LC 49 0646
+
+258
+
+other school personnel from voluntarily engaging in or observing a politically nonpartisan
+
+259
+
+discussion of public policy issues or other issues which some individuals may find
+
+260
+
+unwelcome, disagreeable, or offensive.
+
+261
+
+(m) This Code section shall be construed to be a statute relating to the prevention of
+
+262
+
+unlawful conduct for purposes of subsection (e) of Code Section 20-2-82, subsection (b)
+
+263
+
+of Code Section 20-2-244, and paragraph (5) of subsection (b) of Code Section 20-2-2065.
+
+264
+
+20-1-12.
+
+265
+
+In order to promote and protect the intellectual freedom of students, faculty, and other
+
+266
+
+personnel at public postsecondary educational institutions in this state and to promote and
+
+267
+
+protect the free exchange of ideas, it is the intent of the General Assembly that individual
+
+268
+
+students, faculty, and other personnel of the public postsecondary educational institutions
+
+269
+
+of this state shall be free to take individual positions on public policy issues and that such
+
+270
+
+students, faculty, or other personnel shall not face discipline, sanction, or other adverse
+
+271
+
+action of any kind by a postsecondary educational institution of this state solely for taking
+
+272
+
+an individual position on any public policy issue. It is further the intent of the General
+
+273
+
+Assembly that postsecondary educational institutions of this state should strive to maintain
+
+274
+
+a neutral institutional position on any public policy issue that is not directly related to the
+
+275
+
+operation of such institutions and should not directly or indirectly compel students, faculty,
+
+276
+
+or other personnel to publicly express a particular position on a public policy issue."
+
+277
+
+SECTION 3.
+
+278
+
+Said title is further amended in Part 1 of Article 6 of Chapter 2, relating to the short title and
+
+279
+
+purpose of quality basic education, by revising Code Section 20-2-131, relating to objectives
+
+280
+
+and purposes of Quality Basic Education Program, as follows:
+
+281
+
+"20-2-131.
+
+282
+
+The General Assembly of Georgia, recognizing the need for:
+
+H. B. 888
+- 11 -
+
+22
+
+LC 49 0646
+
+283
+
+(1) Implementing a highly rigorous curriculum to encompass content standards in public
+
+284
+
+schools state wide which ensures that each student is provided ample opportunity to
+
+285
+
+develop competencies necessary for lifelong learning as well as the competencies needed
+
+286
+
+to maintain good physical and mental health, to participate actively in the governing
+
+287
+
+process and community activities, to protect the environment and conserve public and
+
+288
+
+private resources, and to be an effective worker and responsible citizen of high character;
+
+289
+
+(2) Providing all children and youth in Georgia with access to a quality program which
+
+290
+
+supports their development of essential competencies in order that they may realize their
+
+291
+
+potential;
+
+292
+
+(3) Providing an equitable public education finance structure which ensures that every
+
+293
+
+student has an opportunity for a quality basic education, regardless of where the student
+
+294
+
+lives, and ensures that all Georgians pay their fair share of this finance structure;
+
+295
+
+(4) Establishing and maintaining state-wide standards which ensure that each student has
+
+296
+
+access to a quality program;
+
+297
+
+(5) Making teaching an attractive and rewarding profession in order to attract, retain, and
+
+298
+
+fully utilize highly competent personnel in all public schools of the state;
+
+299
+
+(6) Providing effective staff development and attractive incentive programs which will
+
+300
+
+motivate public school personnel to enhance their competencies and perform to their
+
+301
+
+potential throughout their career;
+
+302
+
+(7)
+
+303
+
+assistance they need to plan and implement improvements in their programs on a
+
+304
+
+continuing basis;
+
+305
+
+(8) Providing parents and the general public with information on the quality of schools
+
+306
+
+and the achievement of the public school students in Georgia;
+
+307
+
+(9) Providing appropriate school facilities in which quality educational programs can be
+
+308
+
+offered, particularly in the small and sparsely populated school systems;
+
+Providing local school systems with the incentives, resources, and technical
+
+H. B. 888
+- 12 -
+
+22
+
+LC 49 0646
+
+309
+
+(10) Providing an accountability system to ensure that all students are receiving a quality
+
+310
+
+instructional program so that all students can achieve at their highest level;
+
+311
+
+(11) Providing a seamless education system to allow for the delivery of educational
+
+312
+
+programs at all levels and the movement of students between programs and education
+
+313
+
+agencies as efficiently and effectively as possible and to provide for coordination on a
+
+314
+
+continuing basis between agencies responsible for education services;
+
+315
+
+(12) Providing a safe school environment so that students can learn and mature without
+
+316
+
+fear of violence or intimidation;
+
+317
+
+(13) Providing access to nursing services so that teachers can deliver instructional
+
+318
+
+services without the added responsibility of addressing students' nursing needs and so that
+
+319
+
+students can receive nursing services while at school;
+
+320
+
+(14) Providing academic intervention programs designed to assist students who are
+
+321
+
+performing below grade level in order to increase their mastery of critical academic
+
+322
+
+knowledge and skills;
+
+323
+
+(15) Providing an alternative educational environment for those students who need a
+
+324
+
+different educational structure in order to properly master critical academic knowledge
+
+325
+
+and skills and to provide an environment where they can stay in school and acquire the
+
+326
+
+knowledge and skills necessary for a productive life;
+
+327
+
+(16) Providing students with advice and assistance in planning their academic and work
+
+328
+
+careers and achieving those goals;
+
+329
+
+(17) Providing an evaluation process for all school system personnel to assure the public
+
+330
+
+that personnel are performing at acceptable levels and providing quality educational
+
+331
+
+services to all students;
+
+332
+
+(18) Providing an environment where parents and the community can participate in
+
+333
+
+school activities and support school personnel as they work with students and address
+
+334
+
+their academic needs;
+
+H. B. 888
+- 13 -
+
+22
+
+LC 49 0646
+
+335
+
+(19) Providing for parent and community participation in the establishment of school
+
+336
+
+programs, policies, and management so that the school and community are connected in
+
+337
+
+meaningful and productive ways and providing support for teachers and school leaders
+
+338
+
+in addressing the school's needs; and
+
+339
+
+(20) Providing a means whereby the foregoing might be met in order to provide an
+
+340
+
+opportunity for a quality basic education to the citizens of the state and to discharge the
+
+341
+
+responsibilities and obligations of the state to ensure a literate and informed society
+
+342
+
+does establish the Quality Basic Education Program. It is declared to be the policy of this
+
+343
+
+state to assure that each Georgian has access to quality instruction, as defined in this article,
+
+344
+
+designed to improve upon a student's learning capacity. It is further declared that no
+
+345
+
+student shall be refused admission into or be excluded from any public school in the state,
+
+346
+
+or assigned any distinction or classification within any such public school, on account of
+
+347
+
+race, ethnicity, creed, color, or national origin."
+
+348
+
+SECTION 4.
+
+349
+
+Said title is further amended in Part 2 of Article 6 of Chapter 2, relating to competencies and
+
+350
+
+core curriculum under quality basic education, by revising subsection (a) of Code
+
+351
+
+Section 20-2-142, relating to prescribed courses, as follows:
+
+352
+
+"(a)(1) Subject to the provisions of Code Section 20-1-11, all All elementary and
+
+353
+
+secondary schools which receive in any manner funds from the state shall provide the
+
+354
+
+following course offerings in the manner and at the grade level prescribed by the State
+
+355
+
+Board of Education:
+
+356
+
+(A) A course of study in the background, history, and development of the federal and
+
+357
+
+state governments and a study of Georgia county and municipal governments; and
+
+358
+
+(B) A course of study in the history of the United States and in the history of Georgia
+
+359
+
+and in the essentials of the United States and Georgia Constitutions, including the study
+
+360
+
+of American institutions and ideals which shall include a study of the Pledge of
+
+H. B. 888
+- 14 -
+
+22
+
+LC 49 0646
+
+361
+
+Allegiance to the flag of the United States and the Georgia flag in addition to other
+
+362
+
+institutions and ideals."
+
+363
+
+SECTION 5.
+
+364
+
+Said part is further amended in Code Section 20-2-142.1, relating to coursework in the
+
+365
+
+founding philosophy and principles of the United States of America, by revising
+
+366
+
+subsections (c), (d), and (e) of as follows:
+
+367
+
+"(c) Subject to the provisions of Code Section 20-1-11, each Each local board of education
+
+368
+
+may require all students, as a condition of graduation, during their ninth through twelfth
+
+369
+
+grade years to complete and pass a separate semester course covering the following
+
+370
+
+founding philosophy and principles of the United States of America:
+
+371
+
+(1) America's founding philosophy, to include at least the following:
+
+372
+
+(A) As articulated in the Declaration of Independence the foundational idea of the
+
+373
+
+Creator-endowed unalienable rights of the people;
+
+374
+
+(B) The purpose of limited government, which is to protect the unalienable rights of
+
+375
+
+the people and to protect the people from violence and fraud;
+
+376
+
+(C) The structure of government, separation of powers, and checks and balances; and
+
+377
+
+(D) The rule of law, with frequent and free elections in a representative government
+
+378
+
+which governs by majority vote within a constitutional framework;
+
+379
+
+(2) America's founding principles, to include at least the following:
+
+380
+
+(A)
+
+381
+
+government, and strong state and local government;
+
+382
+
+(B) Freedoms of speech, press, religion, and peaceful assembly guaranteed by the Bill
+
+383
+
+of Rights;
+
+384
+
+(C) Rights to private property and freedom of individual enterprise;
+
+385
+
+(D) The innocence of any crime until proven guilty, with right of habeas corpus, and
+
+386
+
+no unreasonable searches, seizures, or cruel and unusual punishment;
+
+Federalism-government as close to the people as possible, limited federal
+
+H. B. 888
+- 15 -
+
+22
+
+LC 49 0646
+
+387
+
+(E) A virtuous and moral people educated in the philosophy and principles of
+
+388
+
+government for a free people;
+
+389
+
+(F) The right to a speedy trial by a jury of peers;
+
+390
+
+(G) The principles of economy in spending, constitutional limitations on government
+
+391
+
+power to tax and spend, and prompt payment of public debt;
+
+392
+
+(H) Economic system of money with intrinsic value;
+
+393
+
+(I) Equality before the law and due process of law with grand jury indictment for
+
+394
+
+capital crimes before holding a person to account;
+
+395
+
+(J) The right of people to keep and bear arms, strong defense capability, supremacy of
+
+396
+
+civil authority over military;
+
+397
+
+(K) Peace, commerce, and honest friendship with all nations, entangling alliances with
+
+398
+
+none;
+
+399
+
+(L) All laws concise and understandable by the people and not ex post facto laws;
+
+400
+
+(M) Eternal vigilance by 'We the People'; and
+
+401
+
+(N) Founding documents including the Declaration of Independence, the United States
+
+402
+
+Constitution, and the Federalist Papers; and
+
+403
+
+(3) Transformational movements in American history, to include at least the following:
+
+404
+
+(A) The antislavery movement;
+
+405
+
+(B) The Civil Rights movement;
+
+406
+
+(C) Women's suffrage;
+
+407
+
+(D) The contributions of immigrants to American society; and
+
+408
+
+(E) The history of the Native American population.
+
+409
+
+(d) The Department of Education and local boards of education, as appropriate, may
+
+410
+
+provide, or cause to be provided, curriculum content which reflects the content standards
+
+411
+
+addressed pursuant to content standards, curriculum, and instructional materials which
+
+412
+
+appropriately address the content provided for in subsection (c) of this Code section and
+
+413
+
+teacher training to ensure that the intent and provisions of this Code section are
+
+H. B. 888
+- 16 -
+
+22
+
+LC 49 0646
+
+414
+
+implemented, provided, however, that such content standards, curriculum, instructional
+
+415
+
+materials, and teacher training comply with the provisions of Code Section 20-1-11.
+
+416
+
+(e) This Code section shall apply beginning in school year 2017-2018 2022-2023."
+
+417
+
+SECTION 6.
+
+418
+
+Said part is further amended in Code Section 20-2-145, relating to comprehensive character
+
+419
+
+education program, by adding a new subsection to read as follows:
+
+420
+
+"(c) By the start of the 2022-2023 school year, the character education program and
+
+421
+
+character education program workshops required by this Code section shall comply with
+
+422
+
+the provisions of Code Section 20-1-11."
+
+423
+
+SECTION 7.
+
+424
+
+Said part is further amended in Code Section 20-2-148, relating to elective course in History
+
+425
+
+and Literature of the Old and New Testaments and religious neutrality, by amending
+
+426
+
+subsection (h) as follows:
+
+427
+
+"(h) A course offered under this Code section shall follow applicable law and all federal
+
+428
+
+and state guidelines in maintaining religious neutrality and accommodating the diverse
+
+429
+
+religious views, traditions, and perspectives of students in the school. A course under this
+
+430
+
+Code section shall not endorse, favor, or promote, or disfavor or show hostility toward, any
+
+431
+
+particular religion or nonreligious faith or religious perspective. A course offered under
+
+432
+
+this Code section shall comply with the provisions of Code Section 20-1-11. The State
+
+433
+
+Board of Education, in complying with this Code section, shall not violate any provision
+
+434
+
+of the United States Constitution or federal law, the Georgia Constitution or any state law,
+
+435
+
+or any administrative regulations of the United States Department of Education or the
+
+436
+
+Georgia Department of Education."
+
+H. B. 888
+- 17 -
+
+22
+
+437
+438
+
+LC 49 0646
+SECTION 8.
+
+All laws and parts of laws in conflict with this Act are repealed.
+
+H. B. 888
+- 18 -
+
+

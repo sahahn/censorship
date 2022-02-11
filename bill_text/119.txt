@@ -1,0 +1,294 @@
+
+Skip navigation
+
+Home
+
+Documents
+
+Senate
+
+Assembly
+
+Committees
+
+Service Agencies
+
+Docs
+
+Options
+
+Help
+
+2021 Biennium
+
+Statutes
+
+Admin. Rules
+
+Indices
+
+Miscellaneous
+
+Archives
+
+Home
+
+Bill, Rule, and Appointment Histories
+
+Senators
+
+Representatives
+
+Committees
+
+Text of Introduced Proposals
+
+Amendment Text
+
+Acts
+
+Veto Messages
+
+Enrolled Bills
+
+Votes
+
+Assembly and Senate Floor Calendars
+
+Schedule of Committee Activities
+
+Assembly and Senate Journals
+
+Committee Records (ROCPs)
+
+Legislative Rules
+
+All Session-Related Documents
+
+Subject Index to Acts
+
+Subject Index to Legislation
+
+Subject Index to Journals
+
+Author Index to Legislation
+
+Subject Index to Clearinghouse Rules
+
+Miscellaneous Budget Documents
+
+Executive Orders
+
+Rulings of the Chair
+
+Wisconsin Supreme Court Rules
+
+Opinions of the Attorney General
+
+Town Law Forms
+
+Law
+
+Districts
+
+Session
+
+Drafting Files
+
+Feeds
+
+Preferences
+
+Show tree
+
+Hide tree
+
+Feedback
+
+Help
+
+Home
+
+Senate Home
+
+Senators
+
+Committees
+
+Session
+
+Chief Clerk
+
+Sergeant at Arms
+
+Civic Education
+
+Human Resources
+
+Assembly Home
+
+Representatives
+
+Committees
+
+Session
+
+Chief Clerk
+
+Sergeant at Arms
+
+Human Resources
+
+Schedule
+
+Joint
+
+Senate
+
+Assembly
+
+Study
+
+Legislative Audit Bureau
+
+Legislative Council
+
+Legislative Fiscal Bureau
+
+Legislative Human Resources Office
+
+Legislative Reference Bureau
+
+Legislative Technology Services Bureau
+
+Please note, you are using an old version of           Internet Explorer.           Your experience will improve if you          upgrade your browser.
+
+Menu
+
+»2021
+
+»Related Documents
+
+»Proposal Text
+
+»SB410: Bill Text
+
+Up
+
+Up
+
+LRB-3768/1
+
+MIM&amp;EVM:wlj/klm/cjs
+
+2021 - 2022  LEGISLATURE
+
+2021 Senate BILL 410
+
+June 10, 2021 - Introduced by Senators Jacque,  Nass and Wanggaard, cosponsored by Representatives Magnafici, Ramthun, Allen, Behnke, Cabral-Guevara, Gundrum, Horlacher, Kuglitsch, Rozar, Sortwell, Wichgers and Thiesfeldt. Referred to Committee on Government Operations, Legal Review and Consumer Protection.
+
+SB410,1,3 1An Act to create 66.05105 and 230.49 of the statutes; relating to: anti-racism 2and anti-sexism training for employees of state government and local 3government.
+
+Analysis by the Legislative Reference Bureau
+
+This bill prohibits sex and race stereotyping in training provided to employees of local and state government.
+
+Under the bill, a political subdivision or state agency is prohibited from requiring an employee to attend a training that teaches, advocates, acts upon, or promotes race or sex stereotyping.  Among the concepts that are prohibited from being taught under the bill are the following: that one race or sex is inherently superior to another race or sex and that an individual, by virtue of the individual's race or sex, bears responsibility for acts committed in the past by other individuals of the same race or sex.  Political subdivisions and state agencies are required, with some exceptions, to post on the Internet site of the subdivision or agency all training materials that are not required to be kept confidential.
+
+Also under this bill, if the Department of Revenue determines that a political subdivision has violated the sex and race stereotyping in training requirements and the political subdivision fails to come into compliance within 10 days of being notified of the violation, the political subdivision's shared revenue payment for the following year is reduced by 10 percent.  However, if DOR determines that a political subdivision has later come into compliance with the requirements, DOR must pay the political subdivision the full amount of the shared revenue payment.  The bill also allows a local employee to file a complaint with DOR regarding an alleged violation of the bill, and to file a civil action seeking declaratory or injunctive relief regarding an alleged violation of the bill.  If the employee is successful in the civil action, the court must award the employee attorney fees.
+
+Also under this bill, if the Department of Administration determines that a state agency has violated the sex and race stereotyping in training requirements and the agency fails to come into compliance within 10 days of being notified of the violation, DOA must withhold 10 percent of the funding for all positions in the agency for the following year.  However, if DOA determines that an agency has later come into compliance with the requirements, DOA must release the full funding for the positions.  The bill also allows a state employee to file a complaint with DOA regarding an alleged violation of the bill and to file a civil action seeking declaratory or injunctive relief regarding an alleged violation of the bill.  If the employee is successful in the civil action, the court must award the employee attorney fees.
+
+For further information see the state and local fiscal estimate, which will be printed as an appendix to this bill.
+
+The people of the state of Wisconsin, represented in senate and assembly, do enact as follows:
+
+SB410,1 1Section 1 .  66.05105 of the statutes is created to read:
+
+SB410,2,3 266.05105 Training regarding race and sex stereotyping. (1) Definitions.  3In this section:
+
+SB410,2,54 (a)  “Complainant” means an employee of a political subdivision who has been 5required by the political subdivision to attend training.
+
+SB410,2,66 (b)  “Political subdivision” means a city, village, town, or county.
+
+SB410,2,10 7(2) Training.  A political subdivision shall not require employees of the political 8subdivision to attend training in which the political subdivision or a contractor hired 9by the political subdivision teaches, advocates, acts upon, or promotes race or sex 10stereotyping, including any of the following concepts:
+
+SB410,2,1111 (a)  One race or sex is inherently superior to another race or sex.
+
+SB410,2,1312 (b)  An individual, by virtue of the individual's race or sex, is inherently racist, 13sexist, or oppressive, whether consciously or unconsciously.
+
+SB410,3,2 1(c)  An individual should be discriminated against or receive adverse treatment 2because of the individual's race or sex.
+
+SB410,3,43 (d)  Individuals of one race or sex are not able to and should not attempt to treat 4others without respect to race or sex.
+
+SB410,3,65 (e)  An individual's moral character is necessarily determined by the 6individual's race or sex.
+
+SB410,3,87 (f)  An individual, by virtue of the individual's race or sex, bears responsibility 8for acts committed in the past by other individuals of the same race or sex.
+
+SB410,3,109 (g)  An individual should feel discomfort, guilt, anguish, or any other form of 10psychological distress because of the individual's race or sex.
+
+SB410,3,1311 (h)  Systems based on meritocracy or traits such as a hard work ethic are racist 12or sexist or are created by individuals of a particular race to oppress individuals of 13another race.
+
+SB410,3,18 14(3)  Training materials.  A political subdivision shall post on the political 15subdivision's Internet site or, if the political subdivision does not have an Internet 16site, shall otherwise make available to the public all training materials for training 17provided to employees of the political subdivision, except any materials that the 18political subdivision is required to keep confidential.
+
+SB410,3,21 19(4)  Violation.  (a)  If the department of revenue determines that a political 20subdivision has violated sub. (2), the department of revenue shall notify the political 21subdivision of its violation.
+
+SB410,3,2522 (b)  If a political subdivision fails to comply with sub. (2) within 10 days of 23receiving a notification under par. (a), the department of revenue shall reduce the 24amount of the payment to the political subdivision under s. 79.02 (1) in the following 25year by 10 percent.
+
+SB410,4,4 1(c)  If the department of revenue determines that a political subdivision has 2complied with sub. (2) after making a reduction under par. (b), the department of 3revenue shall restore the amount of the payment to the political subdivision under 4s. 79.02 (1) to its original amount before the reduction was made under par. (b).
+
+SB410,4,65 (d)  A complainant may file a complaint of an alleged violation of sub. (2) with 6the department of revenue.
+
+SB410,4,117 (e)  Notwithstanding the immunity set forth under s. 893.80 (4), a complainant 8may file a complaint for declaratory or injunctive relief against the political 9subdivision in a court of competent jurisdiction regarding a violation of sub. (2), and 10if successful in such an action, the complainant may be awarded attorney fees, 11notwithstanding s. 814.04 (1).
+
+SB410,2 12Section 2 .  230.49 of the statutes is created to read:
+
+SB410,4,16 13230.49 Training regarding race and sex stereotyping. (1) Training.  An 14agency shall not require state employees to attend training in which the agency or 15a contractor hired by an agency teaches, advocates, acts upon, or promotes race or 16sex stereotyping, including any of the following concepts:
+
+SB410,4,1717 (a)  One race or sex is inherently superior to another race or sex.
+
+SB410,4,1918 (b)  An individual, by virtue of the individual's race or sex, is inherently racist, 19sexist, or oppressive, whether consciously or unconsciously.
+
+SB410,4,2120 (c)  An individual should be discriminated against or receive adverse treatment 21because of the individual's race or sex.
+
+SB410,4,2322 (d)  Individuals of one race or sex are not able to and should not attempt to treat 23others without respect to race or sex.
+
+SB410,4,2524 (e)  An individual's moral character is necessarily determined by the 25individual's race or sex.
+
+SB410,5,2 1(f)  An individual, by virtue of the individual's race or sex, bears responsibility 2for acts committed in the past by other members of the same race or sex.
+
+SB410,5,43 (g)  An individual should feel discomfort, guilt, anguish, or any other form of 4psychological distress because of the individual's race or sex.
+
+SB410,5,75 (h)  Systems based on meritocracy or traits such as a hard work ethic are racist 6or sexist or are created by individuals of a particular race to oppress individuals of 7another race.
+
+SB410,5,10 8(2)  Training materials posted.  Each agency shall post on the agency's Internet 9site all training materials for training provided to employees of the agency, except 10any materials that the agency is required to keep confidential.
+
+SB410,5,12 11(3)  Violation.  (a)  In this subsection, “ complainant” means a state employee 12who is required to attend training.
+
+SB410,5,1413 (b)  If the department of administration determines that an agency has violated 14sub. (1), the department of administration shall notify the agency of its violation.
+
+SB410,5,1815 (c)  If an agency fails to comply with sub. (1) within 10 days of receiving a 16notification under par. (b), the department of administration shall withhold 10 17percent of the funding for all positions, as defined in s. 230.03 (11), in the agency for 18the following year.
+
+SB410,5,2119 (d)  If the department of administration determines that an agency has 20complied with sub. (1) after withholding funding under par. (c), the department of 21administration shall release the withheld funding.
+
+SB410,5,2322 (e)  A complainant may file a complaint of an alleged violation of sub. (1) with 23the department of administration.
+
+SB410,6,324 (f)  Notwithstanding the immunity set forth under s. 893.80 (4), a complainant 25may file a complaint for declaratory or injunctive relief against the state in a court 1of competent jurisdiction regarding a violation of sub. (1), and if successful in such 2an action, the complainant may be awarded attorney fees, notwithstanding s. 814.04 3(1).
+
+Down
+
+Down
+
+/2021/related/proposals/sb410 true proposaltext /2021/related/proposals/sb410   proposaltext/2021/REG/SB410 proposaltext/2021/REG/SB410 section true
+
+Menu
+
+»2021
+
+»Related Documents
+
+»Proposal Text
+
+»SB410: Bill Text
+
+×          Details for                         PDF view     Link (Permanent link)  Bookmark this location  View toggle  Go to top of document   Search in this chapter  Search in this section  Search in this agency  Search in this chapter group  Search in this chapter  Search in this section  Cross references for section  Acts affecting this section  References to this  1970 Statutes Annotations  Appellate Court Citations  Administrative Code Index   Reference lines  Clear highlighting

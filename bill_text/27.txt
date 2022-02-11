@@ -1,0 +1,1833 @@
+Introduced Version
+
+HOUSE BILL No. 1389
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 20-22.5; IC 20-30-5-17.
+Synopsis: Various education matters. Defines a "qualified school".
+Provides that a student shall not be required to participate in a personal
+analysis, an evaluation, or a survey that is established or administered
+by: (1) a school corporation; (2) a school; (3) the department of
+education (department); or (4) a third party vendor of a school
+corporation, a school, or the department; without the prior consent of
+the student if the student is an adult or an emancipated minor or the
+prior written consent of the student's parent if the student is an
+unemancipated minor. (Current law provides that a student shall not be
+required to participate in a personal analysis, an evaluation, or a survey
+that is not directly related to academic instruction and that reveals or
+attempts to affect the student's attitudes, habits, traits, opinions, beliefs,
+or feelings concerning certain matters without the prior consent of the
+student if the student is an adult or an emancipated minor or the prior
+written consent of the student's parent if the student is an
+unemancipated minor.) Provides that a state agency, state educational
+institution, school corporation, or qualified school, or an employee of
+the state agency, state educational institution, school corporation, or
+qualified school acting in an official capacity, may not include or
+promote certain concepts as part of a course of instruction or in a
+curriculum or direct or otherwise compel a school employee or student
+to adhere to certain tenets relating to the individual's sex, race,
+ethnicity, religion, color, national origin, or political affiliation. Defines
+an "operator". Establishes online privacy protection requirements to
+(Continued next page)
+Effective: July 1, 2022.
+
+Judy, Goodrich, Morris
+January 13, 2022, read first time and referred to Committee on Education.
+
+2022
+
+IN 1389—LS 7132/DI 116
+
+Digest Continued
+protect the disclosure of certain information of a student of a school
+corporation or qualified school by an operator. Provides that a student
+shall not be required to participate in a personal analysis, evaluation,
+or survey that reveals or attempts to affect the student's attitudes,
+habits, traits, opinions, beliefs, or feelings without parental consent.
+Provides that before a school corporation or qualified school may
+provide or administer school psychology services to a student, the
+school must provide the parent of the student or the student, if the
+student is an adult or an emancipated minor, with a written request for
+consent to provide or administer school psychology services.
+Establishes procedures for a petitioner to file a complaint form alleging
+that certain violations occurred within a school corporation or
+applicable school. Provides that a petitioner may appeal a school
+corporation's or applicable school's findings to the department.
+Requires the department to appoint an administrative law judge to
+adjudicate appeals. Requires the department to issue a final order.
+Requires the attorney general or the attorney general's designee to
+review a school corporation's or applicable school's findings or the
+department's final order. Provides that the attorney general may assess
+civil penalties if the attorney general determines a violation occurred.
+Provides that a school corporation or applicable school may not take
+retaliatory action against a petitioner or an individual related to or
+associated with the petitioner.
+
+2022
+
+IN 1389—LS 7132/DI 116
+
+Introduced
+Second Regular Session of the 122nd General Assembly (2022)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2021 Regular Session of the General Assembly.
+
+HOUSE BILL No. 1389
+
+A BILL FOR AN ACT to amend the Indiana Code concerning
+education.
+
+Be it enacted by the General Assembly of the State of Indiana:
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+SECTION 1. IC 20-22.5 IS ADDED TO THE INDIANA CODE AS
+A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+2022]:
+ARTICLE 22.5. PROTECTIONS FOR STUDENTS, PARENTS,
+AND EDUCATORS
+Chapter 1. Definitions
+Sec. 1. The following definitions apply throughout this article.
+(1) "Covered information" refers to personally identifiable
+information or material in any media or format that is any of
+the following:
+(A) Created by or provided to an operator by a student, or
+the student's parent, in the course of the student's or
+parent's use of the operator's site, service, or application
+for K-12 school purposes.
+(B) Created by or provided to an operator by an employee
+or agent of a K-12 school or local school administrative
+unit for K-12 school purposes.
+2022
+
+IN 1389—LS 7132/DI 116
+
+2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+(C) Gathered by an operator through the operation of a
+site, service, or application for K-12 school purposes and
+that personally identifies a student, including, but not
+limited to, the following:
+(i) Information in the student's educational record or
+electronic mail.
+(ii) First and last name.
+(iii) Home address.
+(iv) Telephone number.
+(v) Electronic mail address.
+(vi) Other information that allows physical or online
+contact.
+(vii) Discipline records.
+(viii) Test results.
+(ix) Special education data.
+(x) Juvenile dependency records.
+(xi) Grades.
+(xii) Evaluations.
+(xiii) Criminal records.
+(xiv) Medical records.
+(xv) Health records.
+(xvi) Social Security number.
+(xvii) Biometric information.
+(xviii) Disabilities.
+(xix) Socioeconomic information.
+(xx) Food purchases.
+(xxi) Political affiliations.
+(xxii) Religious information.
+(xxiii) Text messages.
+(xxiv) Documents.
+(xxv) Student identifiers.
+(xxvi) Search activity.
+(xxvii) Photos.
+(xxviii) Voice recordings.
+(xxix) Geolocation information.
+(2) "Educational activity" means a presentation, assembly,
+lecture, or any other educational activity or event that is:
+(A) organized or facilitated by a school corporation or
+qualified school or an employee of the school corporation
+or qualified school; and
+(B) conducted during instructional time (as defined in
+IC 20-30-2-1).
+2022
+
+IN 1389—LS 7132/DI 116
+
+3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+The term does not include a student presentation.
+(3) "Educational activity presenter information" means the
+following:
+(A) The name of a presenter of an educational activity.
+(B) The name of the organization, if applicable, that the
+presenter of the educational activity represents.
+(4) "Interactive computer service" has the meaning set forth
+in 47 U.S.C. 230(f)(2).
+(5) "K-12 school" means:
+(A) a school corporation; or
+(B) a charter school.
+(6) "K-12 school purposes" means purposes that are directed
+by or that customarily take place at the direction of a K-12
+school, a teacher, a governing body, the department, or the
+state board or that aid in the administration of school
+activities, including, but not limited to, instruction in the
+classroom or at home, administrative activities, and
+collaboration between students, school personnel, or parents,
+or are for the use and benefit of the K-12 school.
+(7) "Learning material" means any material used for student
+instruction by a school corporation or qualified school,
+including the following:
+(A) Textbooks and other printed materials.
+(B) Audiovisual materials.
+(C) Materials in electronic or digital formats, including
+materials accessible through the Internet.
+(D) All materials to be presented or provided to students in
+connection with an educational activity.
+The term includes a lesson plan, a syllabus, and any materials
+that contain curriculum content. The term does not include an
+academic test, quiz, or scoring keys.
+(8) "Operator" means, to the extent that it is operating in this
+capacity, the operator of an Internet web site, online service,
+online application, or mobile application with actual
+knowledge that the web site, service, or application is used
+primarily for K-12 school purposes and was designed and
+marketed for K-12 school purposes. The term does not include
+a K-12 school or governing body (or the equivalent for a
+charter school) that operates an Internet web site, online
+service, online application, or mobile application for that K-12
+school's or governing body's (or the equivalent for a charter
+school) own K-12 school purposes.
+2022
+
+IN 1389—LS 7132/DI 116
+
+4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+(9) "Protected right petitioner" means:
+(A) a parent or an emancipated minor student; or
+(B) a school employee.
+(10) "Qualified school" means the following:
+(A) A school maintained by a school corporation.
+(B) A charter school.
+(C) A laboratory school established under IC 20-24.5-2.
+(D) The Indiana School for the Blind and Visually
+Impaired established by IC 20-21-2-1.
+(E) The Indiana School for the Deaf established by
+IC 20-22-2-1.
+(11) "School psychology" has the meaning set forth in
+IC 20-28-1-11.
+(12) "Subcontractor" refers to an entity providing a service
+to an operator under contract and on its behalf to further a
+K-12 school purpose.
+(13) "Targeted advertising" means presenting an
+advertisement to a student where the advertisement is selected
+based on information obtained or inferred over time from
+that student's online behavior, use of applications, or covered
+information. The term does not include advertising to a
+student at an online location based upon that student's
+current visit to that location, or in response to that student's
+request for information or feedback, without the retention of
+that student's online activities or requests over time for the
+purpose of targeting subsequent ads.
+Chapter 2. Prohibited Curriculum and Practices
+Sec. 1. (a) It is hereby declared to be the policy of the state of
+Indiana to prohibit discrimination on the basis of race or sex in the
+form of bias, stereotyping, scapegoating, classification, or
+categorical assignment of traits, morals, values, or characteristics
+based solely on race or sex. School corporations and qualified
+schools are prohibited from engaging in race based or sex based
+discriminatory acts by using methods described in subsection (b),
+which result in treating individuals differently on the basis of race
+or sex or in the creation of a hostile environment.
+(b) A school corporation or qualified school may not include or
+promote the following concepts as part of a course, or allow
+teachers or other employees of the school corporation or qualified
+school to use supplemental instructional materials that include or
+promote the following concepts:
+(1) One (1) race or sex is inherently superior to another race
+2022
+
+IN 1389—LS 7132/DI 116
+
+5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+or sex.
+(2) An individual, by virtue of the individual's race or sex, is
+inherently privileged, racist, sexist, or oppressive, whether
+consciously or subconsciously.
+(3) An individual should be discriminated against or receive
+adverse treatment because of the individual's race or sex.
+(4) Members of one (1) race or sex cannot and should not
+attempt to treat others without respect to race or sex.
+(5) An individual's moral character is determined by the
+individual's race or sex.
+(6) An individual, by virtue of the individual's race or sex,
+bears responsibility for actions committed in the past by other
+members of the same race or sex.
+(7) An individual should feel discomfort, guilt, or anguish or
+another form of psychological distress solely because of the
+individual's race or sex.
+(8) Meritocracy or traits such as hard work ethic are racist or
+sexist, or designed by a particular race or sex to oppress
+members of another race or sex.
+(9) Indiana or the United States was founded as a racist or
+sexist state or nation and is fundamentally or irredeemably
+racist or sexist.
+(c) Notwithstanding subsection (b), this section does not prohibit
+a school corporation or qualified school from including, as part of
+a course, or from allowing teachers or other employees of the
+school corporation or qualified school to use, supplemental
+instructional materials that provide the following:
+(1) The history of an ethnic group.
+(2) The impartial discussion of controversial aspects of
+history.
+(3) The impartial instruction on the historical oppression of a
+particular group of people based on race, ethnicity, class,
+nationality, religion, or geographic region.
+(4) Historical documents relevant to topics described in
+subdivisions (1) through (3).
+(d) Nothing in this section may be construed to prohibit the
+required collection or reporting of demographic data by a school
+corporation or qualified school.
+Sec. 2. A school corporation or qualified school may not do the
+following:
+(1) Provide, contract to provide, offer, or sponsor any course
+that includes, incorporates, or is based on practices prohibited
+2022
+
+IN 1389—LS 7132/DI 116
+
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+under this chapter.
+(2) Use money, property, assets, or resources for a purpose
+that includes, incorporates, or is based on practices prohibited
+under this chapter.
+(3) Adopt programs or use curricular material, instructional
+material, curriculum, classroom assignments, orientation,
+interventions, or counseling that include, incorporate, or are
+based on practices prohibited under this chapter.
+(4) Execute a contract or agreement with an internal or
+external entity or person to provide services, training,
+professional development, or any other assistance that
+includes or incorporates practices prohibited under this
+chapter.
+(5) Receive or apply to receive money that requires, as a
+condition of receipt of the money, the adoption of a course,
+policy, curriculum, or any other instructional material that
+includes, incorporates, or is based on practices prohibited
+under this chapter.
+(6) Adopt diversity, equity, or inclusion plans or training for
+students or school employees that includes, incorporates, or
+is based on practices prohibited under this chapter. A
+diversity officer at a school corporation, qualified school, or
+educational program is prohibited from providing any service
+or performing any duty that includes, incorporates, or is
+based on practices prohibited under this chapter.
+(7) Adopt policies, including grading or admissions policies, or
+providing any other benefit or service that applies to students
+or school employees differently on the basis of race or sex.
+This includes segregated classes, programs, training sessions,
+extracurricular activities, or affinity groups.
+Sec. 3. Neither the state board nor the department may do the
+following:
+(1) Establish or mandate any state standard or adopt any rule
+under IC 4-22-2 that includes, incorporates, or is based on
+practices prohibited under this chapter.
+(2) Provide:
+(A) resources;
+(B) instructional support; or
+(C) courses;
+that include, incorporate, or are based on practices prohibited
+under this chapter. This prohibition includes executing
+contracts or agreements with an external entity or individual
+2022
+
+IN 1389—LS 7132/DI 116
+
+7
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+to provide services, courses, or any other assistance that
+includes, incorporates, or is based on practices prohibited
+under this chapter.
+(3) Receive or apply to receive money that requires, as a
+condition of receipt of the money, the adoption of programs,
+policies, curriculum, or any other learning material that
+includes, incorporates, or is based on practices prohibited
+under this chapter.
+Sec. 4. (a) If a state agency (as defined in IC 4-13-1.4-2), a school
+corporation, or a qualified school, or an employee of a state agency,
+school corporation, or qualified school, requires, makes part of a
+course, awards a grade or course credit, including extra credit, or
+otherwise incentivizes a student to engage in either:
+(1) political activism, lobbying, or efforts to persuade
+members of the legislative or executive branch at the federal,
+state, or local level; or
+(2) participation in any internship, practicum, or similar
+activity involving social or public policy advocacy;
+the state agency, school corporation, or qualified school, or
+employee of the state agency, school corporation, or qualified
+school, shall not require the student to adopt, affirm, affiliate, or
+take any action that would result in favoring any particular
+position on the issue or issues involved.
+(b) It is the duty of the state agency (as defined in IC 4-13-1.4-2),
+school corporation, or qualified school, or an employee of the state
+agency, school corporation, or qualified school to remain impartial
+in activities described in subsection (a)(1) and (a)(2), and to ensure
+that students are free to express their own beliefs and viewpoints
+concerning activities described in subsection (a)(1) and (a)(2)
+without discrimination.
+Sec. 5. (a) This section does not apply to an academic test or
+assessment.
+(b) If a school corporation or qualified school uses a third party
+vendor in providing a personal analysis, evaluation, or survey that
+reveals, identifies, collects, maintains, or attempts to affect a
+student's attitudes, habits, traits, opinions, beliefs, or feelings, the
+third party vendor and the school corporation or qualified school
+may not collect or maintain the responses to or results of the
+analysis, evaluation, or survey in a manner that would identify the
+responses or results of an individual student.
+Sec. 6. (a) Before a school corporation or charter school may
+provide or administer school psychology services to a student, the
+2022
+
+IN 1389—LS 7132/DI 116
+
+8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+school must provide the parent of the student or the student, if the
+student is an adult or an emancipated minor, with a written
+request for consent to provide or administer school psychology
+services. A consent form provided to a parent of a student or a
+student, if the student is an adult or an emancipated minor, under
+this subsection must accurately summarize the contents and nature
+of the school psychology services that will be provided to the
+student and indicate that a parent of a student or the adult or
+emancipated minor student has the right to review and inspect all
+materials related to the school psychology services to be provided
+to the student. The written consent form may be sent in an
+electronic format. The parent of the student or the student, if the
+student is an adult or an emancipated minor, may return the
+consent form indicating that the parent of the student or the adult
+or emancipated minor student consents to the provision or
+administration of school psychology services to the student. The
+school corporation or charter school may not provide school
+psychology services to a student if the parent of the student or the
+emancipated minor student does not provide written consent under
+this section.
+(b) The department and the governing body shall give parents
+and students notice of their rights under this section.
+(c) The governing body shall enforce this section.
+Chapter 3. Transparency
+Sec. 1. (a) This section applies to a learning material or
+educational activity to which any of the following apply:
+(1) The learning material or educational activity is or is
+intended to be assigned, distributed, or otherwise presented
+to:
+(A) a student in a course or class for which the student
+receives credit;
+(B) a student if use of the learning material or
+participation in the educational activity is required by the
+school corporation or qualified school; or
+(C) a student and at least a majority of students at a grade
+level are expected to use the learning material or
+participate in the educational activity.
+(2) The learning material is or is intended to be included in a
+defined list of learning materials from which the students are
+required to select one (1) or more of the learning materials.
+(3) The learning material or educational activity is created by:
+(A) the department;
+2022
+
+IN 1389—LS 7132/DI 116
+
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+(B) the governing body of a school corporation or qualified
+school; or
+(C) an employee of a school corporation or qualified
+school.
+(b) Not later than July 30, 2022, and not later than June 30 each
+year thereafter, each qualified school shall post on the qualified
+school's Internet web site, in a manner accessible by the public, the
+following:
+(1) Information concerning any learning material or
+educational activity that is or is intended to be used for
+student instruction by the qualified school in the immediately
+following school year, organized by grade level, teacher, and
+subject area. The information posted under this subdivision
+must include the following:
+(A) The title and author, organization, or Internet web site
+associated with each learning material and educational
+activity.
+(B) The full text or a copy of the learning material or
+educational activity. A qualified school is not required to
+include the full text or copy of learning material or an
+educational activity under this clause if the qualified school
+provides a link to an Internet web site that contains the full
+text or a copy of the learning material or educational
+activity.
+(2) Any procedures or policies in effect for the documentation,
+review, or approval of learning materials or educational
+activities used for student instruction.
+(c) Each qualified school shall:
+(1) update the information described in subsection (b) at least
+one (1) time each semester; and
+(2) post a notice on the qualified school's Internet web site
+that the information has been updated and the date on which
+the information was updated.
+(d) This section may not be construed to require a qualified
+school to post learning material or information concerning an
+educational activity in a manner that would constitute an
+infringement of copyright under the federal Copyright Act (17
+U.S.C. 101 et seq.).
+(e) The department shall:
+(1) develop a model plan for presenting the information
+described in this section on a qualified school's Internet web
+site; and
+2022
+
+IN 1389—LS 7132/DI 116
+
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+(2) post the model on the department's Internet web site.
+Sec. 2. (a) Upon request of a parent of a student enrolled in a
+school corporation or qualified school, the school corporation or
+qualified school shall make available, in the manner prescribed in
+subsection (b), for inspection to the parent of the student:
+(1) learning material for the particular student; and
+(2) educational activity presenter information for educational
+activity presenters currently scheduled for an educational
+activity or who conducted an educational activity within
+twelve (12) months preceding the date of the request
+submitted under this subsection at the particular school that
+the student currently attends.
+(b) A school corporation or qualified school shall make the
+information described in subsection (a) available for inspection at
+the particular school that the student attends during normal school
+office hours in a manner prescribed by the school corporation or
+qualified school within five (5) business days of receipt of the
+request. In addition, the school corporation or qualified school may
+make the information available to a parent:
+(1) by posting the learning material or educational activity
+presenter information on the school corporation's or qualified
+school's Internet web site;
+(2) by providing the information to the parent of the student
+by electronic mail; or
+(3) by delivering, through regular mail or hand delivery,
+photocopies of the learning material or educational activity
+presenter information. A school corporation or qualified
+school may charge a fee under this subdivision in accordance
+with IC 5-14-3-8.
+Sec. 3. Every teacher who teaches a class at a school corporation
+or qualified school shall provide a student's parent or an adult or
+emancipated minor student a syllabus for the particular class the
+teacher teaches within five (5) school days of the date that students
+start the school year.
+Sec. 4. Within forty-five (45) days from the later of:
+(1) the first student school day of the school corporation or
+qualified school; or
+(2) the date a student enrolls in a school corporation or
+qualified school;
+the school corporation or qualified school shall notify, in a manner
+prescribed by the school corporation or qualified school, the
+student's parent or adult or emancipated minor student that
+2022
+
+IN 1389—LS 7132/DI 116
+
+11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+learning materials and educational activity presenter information
+are available for inspection in the manner prescribed in this
+chapter. The notification must include a copy of this chapter.
+Chapter 4. Student Online Privacy Protection
+Sec. 1. An operator shall not knowingly do any of the following:
+(1) Engage in targeted advertising on the operator's site,
+service, or application, or target advertising on any other site,
+service, or application if the targeting of the advertising is
+based on any information, including covered information and
+persistent unique identifiers, that the operator has acquired
+because of the use of that operator's site, service, or
+application for K-12 school purposes.
+(2) Use information, including persistent unique identifiers,
+created or gathered by the operator's site, service, or
+application, to amass a profile about a student except in
+furtherance of K-12 school purposes. As used in this
+subdivision, "amass a profile" does not include the collection
+and retention of account information that remains under the
+control of the student, the student's parent or guardian, or
+K-12 school.
+(3) Sell or rent a student's information, including covered
+information. This subdivision does not apply to the purchase,
+merger, or other type of acquisition of an operator by another
+entity, if the operator or successor entity complies with this
+section regarding previously acquired student information, or
+to a nationally recognized college entrance exam provider if
+the provider secures the express written consent of the parent
+given in response to clear and conspicuous notice, solely to
+provide access to employment, educational scholarships or
+financial aid, and to postsecondary educational opportunities.
+(4) Except as otherwise provided in section 5 of this chapter,
+disclose covered information unless the disclosure is made for
+the following purposes:
+(A) In furtherance of the K-12 school purpose of the site,
+service, or application, if the recipient of the covered
+information disclosed under this clause does not further
+disclose the information unless done to allow or improve
+operability and functionality of the operator's site, service,
+or application.
+(B) To ensure legal and regulatory compliance or protect
+against liability.
+(C) To respond to or participate in the judicial process.
+2022
+
+IN 1389—LS 7132/DI 116
+
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+(D) To protect the safety or integrity of users of the site or
+others or the security of the site, service, or application.
+(E) To a third party for a school, educational, or
+employment purpose requested by the student or the
+student's parent or guardian, provided that information is
+required not to be used or further disclosed by the third
+party for any other purpose.
+(F) To a subcontractor, if the operator contractually
+prohibits the subcontractor from using any covered
+information for any purpose other than providing the
+contracted service to or on behalf of the operator,
+prohibits the subcontractor from disclosing any covered
+information provided by the operator with subsequent
+third parties, and requires the subcontractor to implement
+and maintain reasonable security procedures and
+practices. This clause does not prohibit the operator's use
+of information for maintaining, developing, supporting,
+improving, or diagnosing the operator's site, service, or
+application.
+Sec. 2. An operator shall do all of the following:
+(1) Implement and maintain reasonable security procedures
+and practices appropriate to the nature of the covered
+information and protect that covered information from
+unauthorized access, destruction, use, modification, or
+disclosure.
+(2) Delete a student's covered information within forty-five
+(45) days if the K-12 school or the governing body (or the
+equivalent for a charter school) requests deletion of covered
+information under the control of the K-12 school or the
+governing body (or the equivalent for a charter school), or the
+K-12 school or the governing body (or the equivalent for a
+charter school) notifies the operator of completion of services
+with that operator, unless a parent or adult or emancipated
+minor student provides express written consent given in
+response to clear and conspicuous notice to the maintenance
+of the covered information.
+Sec. 3. An operator may use or disclose covered information of
+a student under the following circumstances:
+(1) If other provisions of federal or state law require the
+operator to disclose the information and the operator
+complies with the requirements of federal and state law in
+protecting and disclosing that information.
+2022
+
+IN 1389—LS 7132/DI 116
+
+13
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+(2) As long as no covered information is used for advertising
+or to amass a profile on the student for purposes other than
+K-12 school purposes, for legitimate research purposes as
+required by state or federal law and subject to the restrictions
+under applicable state and federal law or as allowed by state
+or federal law in furtherance of K-12 school purposes or
+postsecondary educational purposes.
+(3) To a K-12 school, the department, or the state board, for
+K-12 school purposes, as permitted by state or federal law.
+(4) At the direction of a K-12 school, department, or the state
+board, for K-12 school purposes, as permitted by state or
+federal law.
+Sec. 4. This chapter does not prohibit an operator from doing
+any of the following:
+(1) Using covered information that is not associated with an
+identified student within the operator's site, service, or
+application or other sites, services, or applications owned by
+the operator to improve educational products.
+(2) Using covered information that is not associated with an
+identified student to demonstrate the effectiveness of the
+operator's products or services, including in their marketing.
+(3) Sharing covered information that is not associated with an
+identified student for the development and improvement of
+educational sites, services, or applications.
+(4) Using recommendation engines to recommend to a student
+either of the following:
+(A) Additional content relating to an educational, other
+learning, or employment opportunity purpose within the
+operator's site, service, or application if the
+recommendation is not determined in whole or in part by
+payment or other consideration from a third party.
+(B) Additional services relating to an educational, other
+learning, or employment opportunity purpose within the
+operator's site, service, or application if the
+recommendation is not determined in whole or in part by
+payment or other consideration from a third party.
+(5) Responding to a student's request for information or for
+feedback to help improve learning without the information or
+response being determined in whole or in part by payment or
+other consideration from a third party.
+Sec. 5. This chapter does not do any of the following:
+(1) Limit the authority of a law enforcement agency to obtain
+2022
+
+IN 1389—LS 7132/DI 116
+
+14
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+any content or information from an operator as authorized by
+law or under a court order.
+(2) Limit the ability of an operator to use student data,
+including covered information, for adaptive learning or
+customized student learning purposes.
+(3) Apply to general audience Internet web sites, general
+audience online services, general audience online applications,
+or general audience mobile applications, even if login
+credentials created for an operator's site, service, or
+application may be used to access those general audience sites,
+services, or applications.
+(4) Limit service providers from providing Internet
+connectivity to schools or students and their families.
+(5) Prohibit an operator of an Internet web site, online
+service, online application, or mobile application from
+marketing educational products directly to parents if the
+marketing did not result from the use of covered information
+obtained by the operator through the provision of services
+covered under this chapter.
+(6) Impose a duty upon a provider of an electronic store,
+gateway, marketplace, or other means of purchasing or
+downloading software or applications to review or enforce
+compliance with this section on those applications or software.
+(7) Impose a duty upon a provider of an interactive computer
+service to review or enforce compliance with this section by
+third party content providers.
+(8) Prohibit students from downloading, exporting,
+transferring, saving, or maintaining their own student data or
+documents.
+Sec. 6. A parent, K-12 school, teacher, member of a governing
+body (or the equivalent for a charter school), department, or the
+state board may report an alleged violation of section 1, 2, or 3 of
+this chapter to the attorney general. The attorney general, upon
+ascertaining that an operator has violated section 1, 2, or 3 of this
+chapter, may bring a civil action seeking injunctive and other
+equitable relief.
+Sec. 7. Each school corporation or qualified school shall post
+any contract with an operator on the school corporation's or
+qualified school's Internet web site.
+Chapter 5. Compliance
+Sec. 1. (a) The department shall develop a complaint form to be
+used by a protected right petitioner to file a complaint with a
+2022
+
+IN 1389—LS 7132/DI 116
+
+15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+school corporation or qualified school in the manner described in
+section 2 of this chapter alleging a violation under this article. The
+complaint form must contain the following information:
+(1) The date of the complaint.
+(2) The date or dates that the alleged violation under this
+article occurred.
+(3) A detailed description of the alleged violation under this
+article.
+(4) Information necessary to enable the school corporation or
+qualified school to investigate the alleged violation under this
+article.
+(5) The option for the protected right petitioner to provide the
+identification of witnesses the school corporation or qualified
+school may interview, if applicable.
+(b) The department shall maintain a copy of the complaint form
+on the department's Internet web site. In addition, each school
+corporation and qualified school must maintain a link to the
+complaint form on the school corporation's or qualified school's
+Internet web site.
+Sec. 2. (a) A protected right petitioner may file a complaint form
+developed by the department under section 1 of this chapter with
+a school corporation or qualified school alleging a violation of this
+article. The school corporation or qualified school shall investigate
+each complaint to determine whether a violation occurred.
+(b) Each school corporation shall designate at least one (1)
+employee to respond to complaints under this chapter. Every
+qualified school, other than a qualified school that is part of a
+school corporation, shall designate at least one (1) employee to
+review complaints under this chapter submitted to the particular
+qualified school. Each school corporation or qualified school shall
+include contact information including the:
+(1) name;
+(2) address;
+(3) telephone number; and
+(4) electronic mail address;
+for the designated individual on the school corporation's or
+qualified school's Internet web site.
+(c) Upon receipt of a complaint form, the school corporation or
+qualified school shall acknowledge receipt of the complaint form
+not later than three (3) business days after receipt of the complaint
+form. The school corporation or qualified school shall investigate
+the complaint within ten (10) business days after receipt of the
+2022
+
+IN 1389—LS 7132/DI 116
+
+16
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+complaint form and make findings that shall be sent by mail to the
+protected right petitioner. If the school corporation or qualified
+school finds:
+(1) that a violation under this article occurred, the findings
+must include a description of how the school corporation or
+qualified school will remedy the violation; or
+(2) that a violation under this article did not occur, the
+findings must include an explanation of the school
+corporation's or qualified school's findings.
+The school corporation or qualified school shall provide the
+protected right petitioner notice of the protected right petitioner's
+right to appeal and the deadline to appeal the findings under
+section 3 of this chapter with a copy of the findings mailed to the
+protected right petitioner under this subsection.
+(d) Nothing in this section may be construed to require a school
+corporation or qualified school to disclose personal identifiable
+information of a student.
+(e) The school corporation or qualified school shall send a copy
+of the findings made under subsection (c) to the attorney general
+for review under section 4 of this chapter if the protected right
+petitioner does not appeal the findings under section 3 of this
+chapter. The school corporation or qualified school shall submit a
+copy of the school corporation's or qualified school's findings to the
+attorney general not later than five (5) business days after the date
+required for an appeal to be considered timely under section 3 of
+this chapter.
+Sec. 3. (a) A protected right petitioner may appeal a school
+corporation's or qualified school's findings made under section 2
+of this chapter if the protected right petitioner believes that the
+school corporation or qualified school has incorrectly refused to
+investigate a complaint form or the protected right petitioner has
+evidence that a school corporation or qualified school has reached
+an incorrect determination under section 2 of this chapter. The
+appeal must be submitted to the department by the protected right
+petitioner not later than thirty (30) days after the date of the school
+corporation's or qualified school's findings and notice of the
+protected right petitioner's right to appeal were mailed to the
+protected right petitioner under section 2 of this chapter. The
+appeal must be submitted to the department on a form prescribed
+by the department. The form shall be available on the
+department's Internet web site, and the school corporation or
+qualified school must maintain a link to the form on the school
+2022
+
+IN 1389—LS 7132/DI 116
+
+17
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+corporation's or qualified school's Internet web site.
+(b) The department shall send notice to the school corporation
+or qualified school of an appeal submitted under this section not
+later than three (3) business days after receipt of the appeal.
+(c) The department shall appoint an administrative law judge
+and conduct adjudicative proceedings under this section in
+accordance with IC 4-21.5-3. An administrative law judge shall
+issue a final order in accordance to IC 4-21.5-3-27.
+(d) If an administrative law judge determines that the school
+corporation or qualified school committed a violation under this
+article, the final order may do any of the following:
+(1) Require the school corporation or qualified school to
+remedy the violation under this article.
+(2) Withhold state tuition support under IC 20-43 for the
+school corporation or qualified school until the violation is
+remedied in accordance with the final order.
+(3) Include a recommendation for the attorney general to
+assess a civil penalty in accordance with section 4 of this
+chapter.
+A school corporation or qualified school shall comply with a final
+order issued by the department.
+(e) The department shall submit a copy of the department's final
+order to the attorney general not later than five (5) business days
+after the date the final order is issued.
+Sec. 4. (a) Upon receipt of either:
+(1) the findings submitted by a school corporation or qualified
+school under section 2 of this chapter; or
+(2) a final order submitted by the department under section
+3 of this chapter;
+the attorney general or the attorney general's designee shall review
+the findings of the school corporation, qualified school, or
+department. The attorney general may request additional
+information from the school corporation, qualified school, or
+department necessary to review the findings or final order.
+(b) If, after conducting the review described in subsection (a),
+the attorney general determines that a violation occurred, the
+attorney general may assess a civil penalty against the school
+corporation or qualified school in an amount determined under
+subsection (c). A civil penalty assessed under this subsection must
+be deposited in the Indiana secured school fund established by
+IC 10-21-1-2.
+(c) The amount of a civil penalty under subsection (b) is as
+2022
+
+IN 1389—LS 7132/DI 116
+
+18
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+follows:
+(1) For a first violation, at least one thousand dollars ($1,000)
+but less than five thousand dollars ($5,000) for each student
+who is the subject of a violation under this section.
+(2) For a second violation, at least five thousand dollars
+($5,000) but less than ten thousand dollars ($10,000) for each
+student who is the subject of a violation under this section.
+(3) For any violation after a second violation, at least ten
+thousand dollars ($10,000) for each student who is the subject
+of a violation under this section.
+Sec. 5. (a) A protected right petitioner may bring a civil action
+against a school corporation or qualified school if the protected
+right petitioner is the subject of a violation under this article by the
+school corporation or qualified school.
+(b) A court may award the following to a protected right
+petitioner who prevails in a civil action under this section:
+(1) Court costs and reasonable attorney's fees.
+(2) The greater of:
+(A) actual damages resulting from the violation; or
+(B) liquidated damages in an amount of five thousand
+dollars ($5,000).
+Sec. 6. (a) A school corporation or qualified school may not take
+any retaliatory action against any protected right petitioner, or any
+other person related to or associated with the protected right
+petitioner, who exercises any right under this article.
+(b) A school corporation or qualified school may not take any
+retaliatory action against any protected right petitioner, or any
+other person related to or associated with the protected right
+petitioner, who files a complaint under this chapter.
+(c) A court may award the following to an individual who
+prevails in a civil action under this section:
+(1) Court costs and reasonable attorney's fees.
+(2) The greater of:
+(A) actual damages resulting from the violation; or
+(B) liquidated damages in an amount of five thousand
+dollars ($5,000).
+Chapter 6. Rulemaking
+Sec. 1. The state board shall adopt rules under IC 4-22-2 to
+implement this article.
+SECTION 2. IC 20-30-5-17, AS AMENDED BY P.L.154-2018,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2022]: Sec. 17. (a) Each school corporation shall make
+2022
+
+IN 1389—LS 7132/DI 116
+
+19
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+available for inspection by the parent of a student any instructional
+materials, including teachers' manuals, curricular materials, films or
+other video materials, tapes, and other materials, used in connection
+with:
+(1) a personal analysis, an evaluation, or a survey described in
+subsection (b); or
+(2) instruction on human sexuality.
+(b) This subsection does not apply to an academic test or
+assessment. A student shall not be required to participate in a personal
+analysis, an evaluation, or a survey that is not directly related to
+academic instruction and that reveals or attempts to affect the student's
+attitudes, habits, traits, opinions, beliefs, or feelings concerning:
+(1) political affiliations;
+(2) religious beliefs or practices;
+(3) mental or psychological conditions that may embarrass the
+student or the student's family;
+(4) sexual behavior or attitudes;
+(5) illegal, antisocial, self-incriminating, or demeaning behavior;
+(6) critical appraisals of other individuals with whom the student
+has a close family relationship;
+(7) legally recognized privileged or confidential relationships,
+including a relationship with a lawyer, minister, or physician; or
+(8) income (except as required by law to determine eligibility for
+participation in a program or for receiving financial assistance
+under a program);
+established or administered by:
+(1) a school corporation;
+(2) a school;
+(3) the department; or
+(4) a third party vendor of a school corporation, a school, or
+the department;
+without the prior consent of the student if the student is an adult or an
+emancipated minor or the prior written consent of the student's parent
+if the student is an unemancipated minor. A parental consent form for
+a personal analysis, an evaluation, or a survey described in this
+subsection shall accurately reflect the contents and nature of the
+personal analysis, evaluation, or survey.
+(c) Before a school may provide a student with instruction on human
+sexuality, the school must provide the parent of the student or the
+student, if the student is an adult or an emancipated minor, with a
+written request for consent of instruction. A consent form provided to
+a parent of a student or a student under this subsection must accurately
+2022
+
+IN 1389—LS 7132/DI 116
+
+20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+
+summarize the contents and nature of the instruction on human
+sexuality that will be provided to the student and indicate that a parent
+of a student or an adult or emancipated minor student has the right to
+review and inspect all materials related to the instruction on human
+sexuality. The written consent form may be sent in an electronic
+format. The parent of the student or the student, if the student is an
+adult or an emancipated minor, may return the consent form indicating
+that the parent of the student or the adult or emancipated student:
+(1) consents to the instruction; or
+(2) declines instruction.
+If a student does not participate in the instruction on human sexuality,
+the school shall provide the student with alternative academic
+instruction during the same time frame that the instruction on human
+sexuality is provided.
+(d) If the parent of the student or the student, if the student is an
+adult or an emancipated minor, does not respond to the written request
+provided by the school under subsection (c) within twenty-one (21)
+calendar days after receiving the request under subsection (c), the
+school shall provide the parent of the student, or the student, if the
+student is an adult or an emancipated minor, a written notice requesting
+that the parent of the student, or the student, if the student is an adult
+or an emancipated minor, indicate, in a manner prescribed by the
+school, whether the parent of the student or the adult or emancipated
+student:
+(1) consents to the instruction; or
+(2) declines instruction.
+A notice provided to a parent of a student or a student under this
+subsection must accurately summarize the contents and nature of the
+instruction on human sexuality that will be provided to the student and
+indicate that a parent of a student or an adult or emancipated minor
+student has the right to review and inspect all materials related to the
+instruction on human sexuality. The notice may be sent in an electronic
+format. If the school does not receive a response within ten (10) days
+after the notice, the student will receive the instruction on human
+sexuality unless the parent or the adult or emancipated student
+subsequently opts out of the instruction for the student.
+(e) The department and the governing body shall give parents and
+students notice of their rights under this section.
+(f) The governing body shall enforce this section.
+
+2022
+
+IN 1389—LS 7132/DI 116
+
+
