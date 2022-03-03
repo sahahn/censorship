@@ -17,8 +17,8 @@
 {% include bill_targets_2022.html %}
 {% include bill_targets_2021.html %}
 
-{% include bills_by_status 2021.html %}
-{% include bills_by_status 2022.html %}
+{% include bills_by_status_2021.html %}
+{% include bills_by_status_2022.html %}
 
 ### By Status and Target
 {% include pending_bill_targets.html %}
