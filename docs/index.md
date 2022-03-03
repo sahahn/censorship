@@ -6,24 +6,24 @@
 
 ### By Target
 
-{% include bill targets.html %}
+{% include bill_targets.html %}
 
 ### By Status
 
-{% include bills by status.html %}
+{% include bills_by_status.html %}
 
 ### By Year
 
-{% include bill targets 2022.html %}
-{% include bill targets 2021.html %}
+{% include bill_targets_2022.html %}
+{% include bill_targets_2021.html %}
 
-{% include bills by status 2021.html %}
-{% include bills by status 2022.html %}
+{% include bills_by_status 2021.html %}
+{% include bills_by_status 2022.html %}
 
 ### By Status and Target
-{% include (pending) bill targets.html %}
-{% include (signed) bill targets.html %}
-{% include (dead) bill targets.html %}
+{% include pending_bill_targets.html %}
+{% include signed_bill_targets.html %}
+{% include dead_bill_targets.html %}
 
 
 
