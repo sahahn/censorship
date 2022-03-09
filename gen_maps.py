@@ -403,8 +403,8 @@ def make_markers_map(summed_all):
     m.get_root().html.add_child(folium.Element(title_html))
 
     # Save
-    os.makedirs('maps', exist_ok=True)
-    m.save('maps/bill_explorer.html')
+    os.makedirs('docs/maps', exist_ok=True)
+    m.save('docs/maps/bill_explorer.html')
 
 def make_hover_map(ref_df, title):
   
@@ -459,8 +459,8 @@ def make_hover_map(ref_df, title):
   m.get_root().html.add_child(folium.Element(title_html))
 
   # Save under title
-  os.makedirs('maps', exist_ok=True)
-  m.save(f"maps/{title.lower().replace(' ', '_').replace('(', '').replace(')', '')}.html")
+  os.makedirs('docs/maps', exist_ok=True)
+  m.save(f"docs/maps/{title.lower().replace(' ', '_').replace('(', '').replace(')', '')}.html")
 
   return m
 
@@ -528,8 +528,8 @@ def main():
     # Add iframe version for each map saved in includes
     os.makedirs('_includes', exist_ok=True)
 
-    for file in os.listdir('maps'):
-      loc = os.path.join('maps', file)
+    for file in os.listdir('docs/maps'):
+      loc = os.path.join('docs/maps', file)
       save_loc = os.path.join('_includes', file)
       save_in_iframe(loc, save_loc)
 
