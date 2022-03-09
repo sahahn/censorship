@@ -37,7 +37,6 @@ jobs:
       run: |
         git config --local user.name "sahahn"
         git add docs
-        git add maps
         git commit -m "Update Maps"
 
     # Push the change
