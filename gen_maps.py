@@ -526,11 +526,11 @@ def main():
     make_hover_map(summed_by_year.loc[2022][status_cols], title='Bills by Status 2022')
 
     # Add iframe version for each map saved in includes
-    os.makedirs('_includes', exist_ok=True)
+    os.makedirs('docs/_includes', exist_ok=True)
 
     for file in os.listdir('docs/maps'):
       loc = os.path.join('docs/maps', file)
-      save_loc = os.path.join('_includes', file)
+      save_loc = os.path.join('docs/_includes', file)
       save_in_iframe(loc, save_loc)
 
 
