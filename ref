@@ -1,0 +1,22 @@
+from google.colab import drive
+drive.mount('/content/drive')
+
+# To push to github have it read from token
+# so only sage can push
+from drive.MyDrive.token import token
+
+!git config --global user.email 'sahahn@uvm.edu'
+
+!git clone https://github.com/sahahn/censorship
+!cp -r maps/ censorship/docs/
+!cp -r _includes/ censorship/docs/
+
+%cd censorship
+
+!git remote add origin https://sahahn:'$token'@github.com/sahahn/censorship.git
+!git remote set-url origin https://sahahn:'$token'@github.com/sahahn/censorship.git
+!git add docs
+!git commit -m 'update maps' 
+!git push
+
+%cd /content
