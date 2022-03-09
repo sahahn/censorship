@@ -1,8 +1,7 @@
 import json
 import branca
 import folium
-import requests
-import warnings
+import time
 import pandas as pd
 import os
 import openpyxl
@@ -29,6 +28,9 @@ def dl():
     wget('https://docs.google.com/spreadsheets/d/1Tj5WQVBmB6SQg-zP_M8uZsQQGH09TxmBY73v23zpyr0/export?format=xlsx&gid=107383712', 'latest.xlsx')
     wget('https://raw.githubusercontent.com/jasonong/List-of-US-States/master/states.csv')
     wget('https://raw.githubusercontent.com/benkeen/miscellaneous/master/d3collision/us-state-centroids.json')
+
+    # Make sure downloaded before proceeding?
+    time.sleep(10)
 
 
 def load_base_df():
