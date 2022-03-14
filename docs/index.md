@@ -2,7 +2,7 @@
 ## Tracking Legislative Restrictions on the Freedom to Read, Learn, and Teach
 
 Welcome! Here you can explore educational gag order bills and the various forms of censorship the bills have covered since the beginning of 2021 to present day.
-More information and background about this wave of legistlation can be found at https://pen.org/report/educational-gag-orders/. 
+More information and background about this wave of legistlation can be found through a series by [PEN America](https://pen.org/report/educational-gag-orders/).
 
 ## The Data
 
