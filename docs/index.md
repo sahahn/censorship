@@ -49,8 +49,7 @@ Use these maps to explore the bill censorship target topics or groups, categoriz
 
 ### About Us
 
-
-
+We are a group of students at UVM: Bryn Loftness, Nana Nimako & Sage Hahn. This project was completed as a part of the Data Lab w/ Laurent Hébert-Dufresne. 
 
 
 
