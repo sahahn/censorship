@@ -1,11 +1,12 @@
-# Tracking Legislative Restrictions on the Freedom to Read, Learn, and Teach
+# Visualizing Censorship Legislation
+## Tracking Legislative Restrictions on the Freedom to Read, Learn, and Teach
 
 Welcome! Here you can explore educational gag order bills and the various forms of censorship the bills have covered since the beginning of 2021 to present day.
 More information and background about this wave of legistlation can be found at https://pen.org/report/educational-gag-orders/. 
 
 ## The Data
 
-On this website we provide a number of interactive visualizations related to the number of bills passed, presented, or denied in each state, the subject of the bills, as well as references to the bills themselves. The underlying data being visualized here is made avaliable and still being actively updated by PEN America (the public spreedsheet itself can be found [here](https://docs.google.com/spreadsheets/d/1Tj5WQVBmB6SQg-zP_M8uZsQQGH09TxmBY73v23zpyr0/edit#gid=107383712)). As this dataset is being actively updated (adding new bills, changing the status of bills, ect...) we have designed this website to update itself weekly based on the latest most up to date version of the data.
+On this website we provide a number of interactive visualizations related to the number of bills passed, presented, or denied in each state, the subject of the bills, as well as references to the bills themselves. The underlying data being visualized here is made avaliable and still being actively updated by PEN America (the public spreedsheet itself can be found [here](https://docs.google.com/spreadsheets/d/1Tj5WQVBmB6SQg-zP_M8uZsQQGH09TxmBY73v23zpyr0/edit#gid=107383712)). As this dataset is being actively updated (adding new bills, changing the status of bills, ect...) we have designed this website to update itself weekly based on the latest most up to date version of the data (see github actions script [here](https://github.com/sahahn/censorship/blob/master/.github/workflows/update_maps.yml)).
 
 ### Bill Explorer
 
