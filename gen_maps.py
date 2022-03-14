@@ -45,6 +45,8 @@ def load_base_df():
     df = pd.read_excel('latest.xlsx', sheet_name=2)
   except:
     df = pd.read_excel('latest.xlsx', sheet_name=0)
+
+  print(list(df))
   
   df = df.drop(columns = ['Primary Sponsor'])
 
