@@ -270,7 +270,7 @@ def load_links():
   if len(sheets) == 1:
     sheet = 0
   else:
-    sheet = 2
+    sheet = 3
 
   # Select the passed sheet by int index
   ws = wb[sheets[sheet]]
