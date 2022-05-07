@@ -103,7 +103,7 @@ def simplify_status(status):
   status = status.lower()
 
   died_keys = ['died', 'vetoed', 'withdrawn', 'struck down', 'ruled out of order']
-  signed_keys = ['passed', 'signed', 'became law']
+  signed_keys = ['passed', 'signed', 'became law', 'veto overridden']
   pending_keys = ['prefiled', 'pending']
 
   for key in died_keys:
