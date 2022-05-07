@@ -32,6 +32,10 @@ def dl():
     # Make sure downloaded before proceeding?
     time.sleep(10)
 
+def _proc_year(x):
+  
+  base = str(x).split('\n')[0]
+  return int(base.split('-')[0])
 
 def load_base_df():
 
@@ -56,7 +60,7 @@ def load_base_df():
                   cols[6]: 'Enforcement/Penalties'}, axis=1)
   
   # Convert year from date
-  df['Year'] = df['Year'].apply(lambda x: int(str(x).split('-')[0]))
+  df['Year'] = df['Year'].apply(lambda x: _proc_year(x))
   
   return df
 
