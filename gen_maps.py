@@ -39,7 +39,10 @@ def _proc_year(x):
   try:
     return int(str(base).split('-')[0])
   except:
-    return int(str(base).split('/')[-1])
+    try:
+      return int(str(base).split('/')[-1])
+    except:
+      return int(str(base).split(' ')[0])
 
 def load_base_df():
 
